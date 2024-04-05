@@ -1,0 +1,667 @@
+,notebook_name,notebook_brand,notebook_model,product_code,price,currency,cpu_brand,cpu_gen,cpu_tech,cpu_no,cpu_speed,cpu_cores,ram_capacity,ram_type,ram_speed,monitor_size,monitor_hz,monitor_resolution,monitor_type,gpu_brand,gpu_chipset,disc_capacity,disc_type,os,weight
+0,"
+Asus Vivobook 15 13.Nesil Core i5 1335U-8Gb-512Gb Ssd-15.6inc-W11
+",ASUS,Vivobook 15,X1504VA-NJ009W,21.296,TL,Intel,13. Nesil,Core i5,1335U,Turbo Boost 4.6 GHz,12,8 GB,DDR4,None,15.6 inch,None,1920 x 1080,LED,Intel,Intel UHD Graphics,512 GB,NVMe SSD,Windows 11 Home 64,1.7 Kg.
+1,"
+Asus X515ea 11.Nesil Core i3 1115G4-4Gb-256Gb Ssd-15.6inc-W11
+",ASUS,X515ea,X515EA-BQ945W,13.174,TL,Intel,Intel 11.Nesil,Core i3,1115G4,3 GHz Turbo Boost 4.1 GHz,2,4 GB,DDR4,None,15.6 inch,None,1920 x 1080,IPS,Intel,Intel UHD Graphics,256 GB SSD,NVMe SSD,Windows 11 Home 64,1.8 Kg.
+2,"
+Lenovo LOQ 12.Nesil Core i5 12450H-RTX4050 6Gb-8Gb-512Gb Ssd-15.6-W11
+",LENOVO,LOQ,82XV00HKTX,29.999,TL,Intel,12. Nesil,Core i5,12450H,Turbo Boost 4.4 GHz,8,8 GB,DDR5,4800 MHz,15.6 inch,144 Hz,1920 x 1080,Anti-Glare,NVIDIA,Rtx 4050,512 GB,NVMe SSD,Windows 11 Home 64,2.4 Kg.
+3,"
+Asus Vivobook 15 12.Nesil Core i3 1215U-8Gb-256Gb Ssd-15.6inc-W11
+",ASUS,Vivobook 15,X1502ZA-EJ824W,15.668,TL,Intel,12. Nesil,Core i3,1215U,Turbo Boost 4.4 GHz,10,8 GB,DDR4,None,15.6 inch,None,1920 x 1080,LED,Intel,Intel UHD Graphics,256 GB,NVMe SSD,Windows 11 Home 64,1.7 Kg.
+4,"
+Lenovo Ideapad Slim 3 12.Nesil Core i5 12450H-8Gb-512Gb Ssd-15.6inc-W11
+",LENOVO,Ideapad Slim 3 Notebook,83ER000XTR,18.999,TL,Intel,12. Nesil,Core i5,12450H,Turbo Boost 4.4 GHz,8,8 GB,DDR5,4800 MHz,15.6 inch,None,1920 x 1080,TN ,Intel,Intel UHD Graphics,512 GB,NVMe SSD,Windows 11 Home 64,1.65 Kg.
+5,"
+Asus Vivobook 16X 12.Nesil Core i5 12450H-RTX3050 4Gb-8Gb-512Ssd-16-W11
+",ASUS,Vivobook 16X,K3605ZC-N1013W,30.365,TL,Intel,12. Nesil,Core i5,12450H,Turbo Boost 4.4 GHz,8,8 GB,DDR4,None,16 inch,120 Hz,1920 x 1200,IPS,NVIDIA,RTX 3050,512 GB,NVMe SSD,Windows 11 Home 64,1.8 Kg.
+6,"
+Lenovo Ideapad Slim 3 12.Nesil Core i5 12450H-8Gb-256Gb Ssd-15.6inc-W11
+",LENOVO,Ideapad Slim 3 Notebook,83ER001ETR,17.999,TL,Intel,12. Nesil,Core i5,12450H,Turbo Boost 4.4 GHz,8,8 GB,DDR5,4800 MHz,15.6 inch,None,1920 x 1080,Full HD,Intel,Intel UHD Graphics,256 GB,NVMe SSD,Windows 11 Home 64,1.65 Kg.
+7,"
+Lenovo Ideapad 3 12.Nesil Core i3 1215U-8Gb-256Gb Ssd-15.6inc-W11
+",LENOVO,Ideapad 3 12.Nesil Core i3,82RK00X8TX,13.999,TL,Intel,12. Nesil,Core i3,1215U,Turbo Boost 4.4 GHz,6,8 GB,DDR4,3200 MHz,15.6 inch,None,1920 x 1080,TN ,Intel,Intel UHD Graphics,256 GB,NVMe SSD,Windows 11 Home 64,1.65 Kg.
+8,"
+Dell Inspiron 15 3520 12.Nesil Core i5 1235U-8Gb-512Gb Ssd-15.6inc-W11
+",DELL,Inspiron 15,I35202010WH,17.779,TL,Intel,12. Nesil,Core i5,1235U,Turbo Boost 4.4 GHz,10,8 GB (1x8GB),DDR4,2666 MHz,15.6 inch,120 Hz,1920 x 1080,Full HD,Intel,Intel UHD Graphics,512 GB,NVMe SSD,Windows 11 Home 64,1.8 Kg.
+9,"
+Acer Swift 3 5. Nesil Ryzen 5 5500U-8Gb-512Gb Ssd-14inc-W11
+",ACER,Swift,SF314-43-R5AY,16.999,TL,AMD,5. Nesil,Ryzen™ 5,5500U,Turbo Boost 3.8 GHz,6,8 GB,LPDDR4X,None,14 inch,60 Hz,1920 x 1080,LCD,AMD,None,512 GB,NVMe SSD,Windows 11 Home 64,1.2 Kg.
+10,"
+Lenovo Yoga Slim 6 Oled Evo 12.Nesil Core i5 1240P-8Gb-512Gb Ssd-14inc-W11
+",LENOVO,Yoga Slim 6 Evo,82WU006YTX,26.999,TL,Intel,12. Nesil,Core i5,1240P,Turbo Boost 4.4 GHz,12,8 GB,DDR5,4800 MHz,14 inch,60 Hz,1920 x 1200,WUXGA,Intel,Intel® Iris Xe Graphics,512 GB,NVMe SSD,Windows 11 Home 64,1.35 Kg.
+11,"
+Lenovo Ideapad Slim 3 12.Nesil Core i5 12450H-8Gb-512Gb Ssd-15.6inc-W11
+",LENOVO,Ideapad Slim 3,83ER00A9TR,18.999,TL,Intel,12. Nesil,Core i5,12450H,Turbo Boost 4.4 GHz,8,8 GB,DDR5,4800 MHz,15.6 inch,None,1920 x 1080,TN ,Intel,Intel UHD Graphics,512 GB,NVMe SSD,Windows 11 Home 64,1.62 Kg.
+12,"
+Msi Thin GF63 12.Nesil Core i7 12650H-RTX4060 8GB-16GB-512Gb Ssd-15.6inc-W11
+",MSI,Msi Thin GF63 12.Nesil Core i7 Notebook,THIN GF63 12VF-632TR,43.499,TL,Intel,12. Nesil,Core i7,12650H,Turbo Boost 4.7 GHz,10,16 GB (2x8GB),DDR4,3200 MHz,15.6 inch,144 Hz,1920 x 1080,Full HD,NVIDIA,RTX 4060,512 GB,NVMe SSD,Windows 11 Home 64,1.86 Kg.
+13,"
+Huawei Matebook D15 11.Nesil Core i5 1155G7-8Gb-512Gb Ssd-15.6inc-W11
+",HUAWEI,53013PNP,53013PNP,17.999,TL,Intel,11. Nesil,Core i5,1155G7,2.5 GHz Turbo Boost 4.5 GHz,4,8 GB,LPDDR4X,None,15.6 inch,None,1920 x 1080,IPS,Intel,Intel® Iris Xe Graphics,512 GB,SSD,Windows 11 Home 64,1.56 Kg.
+14,"
+Msi Thin Gf63 12.Nesil Core i5 12450H-RTX3050 4Gb-16Gb-512Gb Ssd-15.6inc-W11
+",MSI,Thin Gf63,THIN GF63 12UC-673TR,28.999,TL,Intel,12. Nesil,Core i5,12450H,Turbo Boost 4.4 GHz,8,16 GB (2x8GB),DDR4,3200 MHz,15.6 inch,144 Hz,1920 x 1080,Full HD,NVIDIA,RTX 3050,512 GB,NVMe SSD,Windows 11 Home 64,1.86 Kg.
+15,"
+Acer Nitro 16 7.Nesil Ryzen 7 7840HS-RTX4070 8Gb-16Gb-512Ssd-16inc-FreeDos
+",ACER,Nitro 16,AN16-41-R1PR,54.117,TL,AMD,AMD Ryzen 7.Nesil,Ryzen™ 7,7840HS,Turbo Boost 5.1 GHz,8,16 GB,DDR5,None,16 inch,None,2560 x 1600,IPS,NVIDIA,RTX 4070,512 GB,SSD,FreeDOS,2.70 Kg.
+16,"
+Huawei Matebook D16 12.Nesil Core i5 12450H-8Gb-512Gb Ssd-16inc-W11
+",HUAWEI,Matebook D16,53013WWX,21.999,TL,Intel,Intel 12.Nesil,Core i5,12450H,Turbo Boost 4.4 GHz,8,8 GB,LPDDR4X,None,16 inch,None,1920 x 1200,IPS,Intel,Intel UHD Graphics,512 GB,SSD,Windows 11 Home 64,1.7 Kg.
+17,"
+Huawei Matebook D14 13.Nesil Core i5 13420H-16Gb-512Gb Ssd-14inc-W11
+",HUAWEI,Matebook D14,53013YAT,24.999,TL,Intel,13. Nesil,Core i5,13420H,Turbo Boost 4.6 GHz,8,16 GB,LPDDR4X,None,14 inch,None,1920 x 1200,IPS,Intel,Intel UHD Graphics,512 GB,NVMe SSD,Windows 11 Home 64,1.39 Kg.
+18,"
+Lenovo Ideapad 1 Celeron N4020-4Gb-128Gb Ssd-15.6inc-W11
+",LENOVO,Ideapad 1,82V700A9TX,8.499,TL,Intel,None,Celeron,N4020,1.1 GHz Turbo Boost 2.8 GHz,2,4 GB,DDR4,2400 MHz,15.6 inch,None,1366 x 768,Anti-Glare,Intel,Intel UHD Graphics 600,128 GB,NVMe SSD,Windows 11 Home 64,1.54 Kg.
+19,"
+Asus Tuf Gaming A15 7.Nesil Ryzen 7 7735HS-RTX4060 8Gb-8Gb-512Gb Ssd-15.6inc-W11
+",ASUS,Tuf Gaming A15,FA507NV-LP019W-Gaming,43.211,TL,AMD,7. Nesil,Ryzen™ 7,7735HS,Turbo Boost 4.7 GHz,8,8 GB,DDR5,4800 MHz,15.6 inch,144 Hz,1920 x 1080,Anti-Glare,NVIDIA,RTX 4060,512 GB,NVMe SSD,Windows 11 Home 64,2.2 Kg.
+20,"
+Lenovo LOQ 12.Nesil Core i5 12450H-RTX3050 6Gb-8Gb-512Gb Ssd-15.6-W11
+",LENOVO,LOQ,82XV00SWTX,28.999,TL,Intel,12. Nesil,Core i5,12450H,Turbo Boost 4.4 GHz,8,8 GB,DDR5,4800 MHz,15.6 inch,144 Hz,1920 x 1080,IPS,NVIDIA,RTX 3050,512 GB,NVMe SSD,Windows 11 Home 64,2.4 Kg.
+21,"
+Dell G15 5530 13.Nesil Core i7 13650HX-RTX4060 8Gb-16Gb-512Gb Ssd-15.6inc-W11
+",DELL,G15 5530,G15-5530-7138GW165,53.270,TL,Intel,13. Nesil,Core i7,13650HX,Turbo Boost 4.9 GHz,14,16 GB (2x8GB),DDR5,4800 MHz,15.6 inch,165 Hz,1920 x 1080,Full HD,NVIDIA,RTX 4060,512 GB,NVMe SSD,Windows 11 Home 64,2.81 Kg.
+22,"
+Acer Nitro V 15 13.Nesil Core i5 13420H-RTX3050 6Gb-8Gb-512Gb Ssd-15-6inc-W11
+",ACER,Nitro V,ANV15-51-58MB,24.999,TL,Intel,13. Nesil,Core i5,13420H,Turbo Boost 4.6 GHz,8,8 GB,DDR5,None,15.6 inch,None,1920 x 1080,IPS,NVIDIA,RTX 3050,512 GB,SSD,Windows 11 Home 64,2.14 Kg.
+23,"
+MacBook Air MGN63TU/A M1 8Gb-256Gb Ssd-Retina-13.3inc-Space Grey
+",APPLE,MGN63TU/A,MGN63TU/A,29.899,TL,Apple,None,M1,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,13.3 inch,None,2560 x 1600,HD,APPLE,Paylaşılmıyor,256 GB,SSD,macOS Big Sur,1.29 Kg.
+24,"
+Huawei Matebook 14 12.Nesil Core i5 1240P-16Gb-512Gb Ssd-14inc-W11
+",HUAWEI,Matebook 14,53013VAA,26.999,TL,Intel,12. Nesil,Core i5,1240P,Turbo Boost 4.4 GHz,12,16 GB,LPDDR4 ,None,14 inch,None,2160 x 1440,IPS,Intel,Intel® Iris Xe Graphics,512 GB,NVMe SSD,Windows 11 Home 64,1.49 Kg.
+25,"
+Acer Aspire 3 12.Nesil Core i5 1235U-8Gb-256Gb Ssd-15.6inc-W11
+",ACER,Aspire 3,A315-59-56YV,17.999,TL,Intel,12. Nesil,Core i5,1235U,Turbo Boost 4.4 GHz,10,8 GB,DDR4,None,15.6 inch,60 Hz,1920 x 1080,LED,Intel,Intel® Iris Xe Graphics,256 GB,NVMe SSD,Windows 11 Home 64,1.79 Kg.
+26,"
+Asus Zenbook 14 UM3402 7.Nesil Ryzen 5 7530U-16Gb-512 Ssd-14inc-W11
+",ASUS,Zenbook 14,UM3402YA-KP394W,31.399,TL,AMD,7. Nesil,Ryzen™ 5,7530U,Turbo Boost 4.5 GHz,6,16 GB,LPDDR4X,None,14 inch,60 Hz,2560 x 1600,LED,AMD,AMD Radeon Graphics,512 GB,NVMe SSD,Windows 11 Home 64,1.35 Kg.
+27,"
+Asus Vivobook 15 13.Nesil Core i7 1355U-8Gb-512Gb Ssd-15.6inc-W11
+",ASUS,Vivobook 15,X1504VA-NJ195W,30.551,TL,Intel,13. Nesil,Core i7,1355U,Turbo Boost 5.0 GHz,10,8 GB,DDR4,None,15.6 inch,None,1920 x 1080,LED,Intel,Intel UHD Graphics,512 GB,NVMe SSD,Windows 11 Home 64,1.7 Kg.
+28,"
+Casper Nirvana Celeron N4020-4Gb-120Gb Ssd-15.6inc-W11
+",CASPER,Nirvana,C370.4020-4W00B,7.999,TL,Intel,None,Celeron,N4020,1.1 GHz Turbo Boost 2.6 GHz,2,4 GB,LPDDR4X,None,15.6 inch,60 Hz,1366 x 768,TN ,Intel,Intel UHD Graphics 600,120 GB,NVMe SSD,Windows 11 Home 64,1.7 Kg.
+29,"
+Hp Victus 16-s0004nt 7.Nesil Ryzen 7 7840HS-RTX4070 8Gb-16Gb-512Gb-16.1inc-W11
+",HP,Victus,7Z4M2EA,55.121,TL,AMD,7. Nesil,Ryzen™ 7,7640HS,Turbo Boost 5.1 GHz,8,16 GB (2x8GB),DDR5,5600 MHz,16.1 inch,144 Hz,1920 x 1080,Full HD,NVIDIA,RTX 4070,512 GB,NVMe SSD,Windows 11 Home 64,2.34 Kg.
+30,"
+Casper Excalibur 12.Nesil Core i7 12650H-RTX3050 4Gb-16Gb-500Gb Ssd-15.6inc-W11
+",CASPER,Excalibur,G770.1265-BVJ0A-B,35.999,TL,Intel,12. Nesil,Core i7,12650H,Turbo Boost 4.7 GHz,10,16 GB,DDR4,3200 MHz,15.6 inch,144 Hz,1920 x 1080,IPS,NVIDIA,RTX 3050,500 GB,NVMe SSD,Windows 11 Home 64,2.5 Kg.
+31,"
+Acer Aspire 5 13.Nesil Core i5 1335U-RTX2050 4GB-8Gb-512Gb Ssd-14inc-W11
+",ACER,Aspire 5,A514-56GM-597F,21.999,TL,Intel,13. Nesil,Core i5,1335U,Turbo Boost 4.6 GHz,10,8 GB,DDR4,None,14 inch,None,1920 x 1200,LED,NVIDIA,RTX 2050,512 GB,NVMe SSD,Windows 11 Home 64,1.59 Kg.
+32,"
+Acer Aspire 3 11.Nesil Core i7 1165G7-16Gb-512Gb Ssd-15.6inc-W11
+",ACER,Acer Aspire 3 Notebook,A315-58-774L,25.999,TL,Intel,11. Nesil,Core i7,1165G7,Turbo Boost 4.7 GHz,4,16 GB,DDR4,None,15.6 inch,None,1920 x 1080,LED,Intel,Intel® Iris Xe Graphics,512 GB,SSD,Windows 11 Home 64,1.7 Kg.
+33,"
+Lenovo LOQ 13.Nesil Core i7 13620H-RTX4050 6Gb-16Gb-512Gb Ssd-15.6-W11
+",LENOVO,LOQ,82XV0055TX,45.999,TL,Intel,13. Nesil,Core i7,13620H,Turbo Boost 4.9 GHz,10,16 GB (2x8GB),DDR5,5200 MHz,15.6 inch,144 Hz,1920 x 1080,Anti-Glare,NVIDIA,Rtx 4050,512 GB,NVMe SSD,Windows 11 Home 64,2.4 Kg.
+34,"
+Dell G16 7630 13.Nesil Core i9 13900HX-RTX4070 8Gb-32Gb-1Tb Ssd-16inc-W11
+",DELL,G16 7630,G16-7630-QI98GW321,76.427,TL,Intel,13. Nesil,Core i9,13900HX,Turbo Boost 5.4 GHz,24,32 GB (2x16GB),DDR5,4800 MHz,16 inch,240 Hz,2560 x 1600,QHD,NVIDIA,RTX 4070,1 TB,NVMe SSD,Windows 11 Home 64,2.81 Kg.
+35,"
+Casper Excalibur 12.Nesil Core i5 12450H-RTX3050 4Gb-8Gb-500Gb Ssd-15.6inc-W11
+",CASPER,Excalibur,G770.1245-8EJ0T-B,26.999,TL,Intel,12. Nesil,Core i5,12450H,Turbo Boost 4.4 GHz,8,8 GB,DDR4,3200 MHz,15.6 inch,144 Hz,1920 x 1080,IPS,NVIDIA,RTX 3050,500 GB,NVMe SSD,Windows 11 Home 64,2.1 Kg.
+36,"
+Hp Victus 16-r1058nt 14.Nesil Core i5 14500HX-RTX4050 6Gb-16Gb-512Gb-16.1inc-W11
+",HP,Victus,9J259EA,39.499,TL,Intel,14. Nesil,Core i5,14500HX,Turbo Boost 4.9 GHz,14,16 GB (2x8GB),DDR5,5600 MHz,16.1 inch,144 Hz,1920 x 1080,IPS,NVIDIA,Rtx 4050,512 GB,NVMe SSD,Windows 11 Home 64,2.34 Kg.
+37,"
+Acer Nitro 5 12.Nesil Core i7 12650H-RTX4060 8Gb-16Gb-1TB Ssd-15.6inc-W11
+",ACER,Nitro 5,AN515-58-79CQ,45.999,TL,Intel,Intel 12.Nesil,Core i7,12650H,Turbo Boost 4.7 GHz,10,16 GB,DDR5,None,15.6 inch,165 Hz,1920 x 1080,LED,NVIDIA,RTX 4060,1 TB,SSD,Windows 11 Home 64,2.5 Kg.
+38,"
+Hp Pavilion Plus Evo 14-eh1000nt 13.Nesil Core i5 1340P-16Gb-512Ssd-14inc-W11 Notebook
+",HP,849S8EA,849S8EA,31.493,TL,Intel,13. Nesil,Core i5,1340P,Turbo Boost 4.6 GHz,12,16 GB,LPDDR5,5200 MHz,14 inch,None,2240 x 1400,Full HD,Intel,Intel® Iris Xe Graphics,512 GB,NVMe SSD,Windows 11 Home 64,1.4 Kg.
+39,"
+Asus Vivobook Go 15 7.Nesil Ryzen 5 7520U-8Gb-512Gb Ssd-15.6inc-W11
+",ASUS,Vivobook Go 15 LED,E1504FA-NJ113W,17.473,TL,AMD,7. Nesil,Ryzen™ 5,7520U,Turbo Boost 4.1 GHz,4,8 GB,LPDDR5,None,15.6 inch,60 Hz,1920 x 1080,LED,AMD,Radeon,512 GB,NVMe SSD,Windows 11 Home 64,1.65 Kg.
+40,"
+Casper Nirvana X600 12.Nesil Core i5 1235U-8Gb-500Gb Ssd-15.6inc-W11
+",CASPER,Nirvana X600,X600.1235-8E00T-M-F,18.999,TL,Intel,12. Nesil,Core i5,1235U,Turbo Boost 4.4 GHz,10,8 GB,DDR4,None,15.6 inch,60 Hz,1920 x 1080,IPS,Intel,Intel® Iris Xe Graphics,500 GB,NVMe SSD,Windows 11 Home 64,1.6 Kg.
+41,"
+Casper Nirvana X600 11.Nesil Core i5 1155G7-8Gb-500Gb Ssd-15.6inc-W11
+",CASPER,Nirvana X600,X600.1155-8V00T-G-F,14.999,TL,Intel,11. Nesil,Core i5,1155G7,Turbo Boost 4.5 GHz,4,8 GB,DDR4,3200 MHz,15.6 inch,60 Hz,1920 x 1080,IPS,Intel,Intel® Iris Xe Graphics,500 GB,NVMe SSD,Windows 11 Home 64,1.6 Kg.
+42,"
+Casper Nirvana X600 5. Nesil Ryzen 5 5500U-8Gb-500Gb Ssd-15.6inc-W11
+",CASPER,Nirvana X600,X600.5500-8E00T-G-F,15.999,TL,AMD,5. Nesil,Ryzen™ 5,5500U,2.1 GHz Turbo Boost 4.0 GHz,6,8 GB,DDR4,3200 MHz,15.6 inch,60 Hz,1920 x 1080,IPS,AMD,AMD Radeon Graphics,500 GB,NVMe SSD,Windows 11 Home 64,1.6 Kg.
+43,"
+Hp Victus 15-fb0017nt 5.Nesil Ryzen 5 5600H-RX6500M-16Gb-512Gb-15.6inc-W11
+",HP,7N5R1EA,7N5R1EA,27.992,TL,AMD,5. Nesil,Ryzen™ 5,5600H,3.3 GHz Turbo Boost 4.2 GHz,6,16 GB (2x8GB),None,3200 MHz,15.6 inch,144 Hz,1920 x 1080,IPS,AMD,RX6500M,512 GB,NVMe SSD,Windows 11 Home 64,Belirtilmemiş.
+44,"
+MacBook Air MGN93TU/A M1 8Gb-256Gb Ssd-Retina-13.3inc-Silver
+",APPLE,MGN93TU/A,MGN93TU/A,29.899,TL,Apple,None,M1,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,13.3 inch,None,2560 x 1600,Retina,APPLE,Paylaşılmıyor,256 GB,SSD,macOS Big Sur,1.29 Kg.
+45,"
+Asus Vivobook Pro 16x Oled 13.Nesil Core i7 13700HX-RTX4070 8Gb-32Gb-1Tb-16-W11
+",ASUS,Vivobook Pro 16x OLED,K6604JI-MX010W,84.574,TL,Intel,13. Nesil,Core i7,13700HX,Turbo Boost 5.0 GHz,16,32 GB (2x16GB),DDR5,None,16 inch,120 Hz,3200 x 2000,OLED,NVIDIA,RTX 4070,1 TB,NVMe SSD,Windows 11 Home 64,1.9 Kg.
+46,"
+Hp Victus 16-r1015nt 14.Nesil Core i7 14700HX-RTX4070 8Gb-16Gb-1Tb-16.1inc-W11
+",HP,Victus,9J217EA,57.999,TL,Intel,14. Nesil,Core i7,14700HX,Turbo Boost 5.5 GHz,20,16 GB (2x8GB),DDR5,5600 MHz,16.1 inch,144 Hz,1920 x 1080,Mikro Kenarlı,NVIDIA,RTX 4070,1 TB,NVMe SSD,Windows 11 Home 64,2.34 Kg.
+47,"
+MacBook Air MLXW3TU/A M2 8Gb-256Gb Ssd-Liquid Retina-13.6inc-Uzay Grisi
+",APPLE,MLXW3TU/A,MLXW3TU/A,38.999,TL,Apple,None,M2,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,13.6 inch,None,2560 x 1664,IPS,APPLE,Paylaşılmıyor,256 GB,SSD,macOS Monterey,1.24 Kg.
+48,"
+MacBook Air MGND3TU/A M1 8Gb-256Gb Ssd-Retina-13.3inc-Gold
+",APPLE,MGND3TU/A,MGND3TU/A,29.899,TL,Apple,None,M1,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,13.3 inch,None,2560 x 1600,IPS,APPLE,Paylaşılmıyor,256 GB,SSD,macOS Big Sur,1.29 Kg.
+49,"
+Msi Cyborg 15 13.Nesil Core i5 13420H-RTX4060 8GB-16GB-512Gb Ssd-15.6inc-W11
+",MSI,Cyborg 15,CYBORG 15 A13VF-899TR,38.999,TL,Intel,12. Nesil,Core i5,13420H,Turbo Boost 4.6 GHz,8,16 GB (2x8GB),DDR5,5200 MHz,15.6 inch,144 Hz,1920 x 1080,Full HD,NVIDIA,RTX 4060,512 GB,NVMe SSD,Windows 11 Home 64,1.98 Kg.
+50,"
+Lenovo Ideapad Flex 5 12.Nesil Core i5 1235U-8Gb-512Gb Ssd-14inc-W11
+",LENOVO,Ideapad Flex 5,82R700JETX,28.999,TL,Intel,12. Nesil,Core i5,1235U,Turbo Boost 4.4 GHz,10,8 GB,DDR4,4266 MHz,14 inch,60 Hz,1920 x 1200,Full HD,Intel,Intel® Iris Xe Graphics,512 GB,NVMe SSD,Windows 11 Home 64,1.5 Kg.
+51,"
+MacBook Pro MTL73TU/A M3 8Gb-512Gb Ssd-Liquid Retina-14inc-Uzay Grisi
+",APPLE,MacBook Pro M3,MTL73TU/A,58.999,TL,Apple,None,M3,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,14.2 inch,60 Hz,3024 x 1964,Retina,APPLE,None,512 GB,SSD,Mac OS,1.55 Kg.
+52,"
+MacBook Pro MRW13TU/A M3 Pro 18Gb-512Gb Ssd-Liquid Retina-16inc-Uzay Siyahı
+",APPLE,MacBook Pro M3 Pro,MRW13TU/A,102.999,TL,Apple,None,M3 Pro,Paylaşılmıyor,Paylaşılmıyor,12,18 GB,Birleşik Bellek,None,16.2 inch,60 Hz,3456 x 2234,Retina,APPLE,None,512 GB,SSD,Mac OS,2.14 Kg.
+53,"
+Lenovo LOQ 13.Nesil Core i7 13620H-RTX4060 8Gb-16Gb-512Gb Ssd-15.6-W11
+",LENOVO,LOQ,82XV00G9TX,51.999,TL,Intel,13. Nesil,Core i7,13620H,Turbo Boost 4.9 GHz,10,16 GB (2x8GB),DDR5,5200 MHz,15.6 inch,144 Hz,1920 x 1080,Anti-Glare,NVIDIA,RTX 4060,512 GB,NVMe SSD,Windows 11 Home 64,2.4 Kg.
+54,"
+Hp 15-fc0013nt 7.Nesil Ryzen 5 7520U-8Gb-512Gb Ssd-15.6inc-W11
+",HP,15-FC0013NT,7Q9K4EA,18.411,TL,AMD,None,Ryzen™ 5,7520U,2.8 GHz Turbo Boost 4.3 GHz,4,8 GB,LPDDR5,None,15.6 inch,60 Hz,1920 x 1080,Full HD,AMD,AMD Radeon Graphics,512 GB,NVMe SSD,Windows 11 Home 64,1.6 Kg.
+55,"
+Asus Vivobook Pro 15 Oled 13.Nesil Core i5 13500H-RTX4050 6Gb-16Gb-512Ssd-15-W11
+",ASUS,Vivobook Pro 15,K6502VU-MA064W,51.114,TL,Intel,Intel 13.Nesil,Core i5,13500H,Turbo Boost 4.7 GHz,12,16 GB (2x8GB),DDR5,None,15.6 inch,120 Hz,2880 x 1620,OLED,NVIDIA,Rtx 4050,512 GB,NVMe SSD,Windows 11 Home 64,1.8 Kg.
+56,"
+Casper Excalibur 12.Nesil Core i5 12450H-RTX4060 8Gb-16Gb-1Tb Ssd-15.6inc-W11
+",CASPER,Excalibur,G870.1245-BQB0P-B,40.999,TL,Intel,12. Nesil,Core i5,12450H,Turbo Boost 4.4 GHz,8,16 GB,DDR4,3200 MHz,15.6 inch,144 Hz,1920 x 1080,IPS,NVIDIA,RTX 4060,1 TB,NVMe SSD,Windows 11 Home 64,2.5 Kg.
+57,"
+Casper Excalibur 12.Nesil Core i7 12650H-RTX4050 6Gb-16Gb-1Tb Ssd-15.6inc-W11
+",CASPER,G870.1265-BFA0A-B,G870.1265-BFA0A-B,42.999,TL,Intel,12. Nesil,Core i7,12650H,Turbo Boost 4.7 GHz,10,16 GB,DDR4,3200 MHz,15.6 inch,144 Hz,1920 x 1080,IPS,NVIDIA,Rtx 4050,1 TB,NVMe SSD,Windows 11 Home 64,2.5 Kg.
+58,"
+Asus Rog Strix G16 13.Nesil Core i7 13650HX-RTX4050 6Gb-16Gb-512Gb-16inc-W11
+",ASUS,Rog Strix G16,G614JU-N3110W-Gaming,58.279,TL,Intel,13. Nesil,Core i7,13650HX,Turbo Boost 4.9 GHz,14,16 GB (2x8GB),DDR5,4800 MHz,16 inch,165 Hz,1920 x 1200,Full HD,NVIDIA,Rtx 4050,512 GB,NVMe SSD,Windows 11 Home 64,2.5 Kg.
+59,"
+Asus Tuf Gaming A15 7.Nesil Ryzen 7 7735HS-RTX4050 6Gb-8Gb-512Gb Ssd-15.6inc-W11
+",ASUS,FA507NU-LP030W-Gaming,FA507NU-LP030W-Gaming,37.699,TL,AMD,7. Nesil,Ryzen™ 7,7735HS,Turbo Boost 4.7 GHz,8,8 GB,DDR5,4800 MHz,15.6 inch,144 Hz,1920 x 1080,Anti-Glare,NVIDIA,Rtx 4050,512 GB,NVMe SSD,Windows 11 Home 64,2.2 Kg.
+60,"
+Asus Zenbook 14 Evo Ux3402 13.Nesil Core i7 1360P-16Gb-1Tb Ssd-14inc-W11
+",ASUS,Zenbook 14 Evo,UX3402VA-KP337W,46.510,TL,Intel,13. Nesil,Core i7,1360P,Turbo Boost 5.0 GHz,12,16 GB,LPDDR5,None,14 inch,60 Hz,2560 x 1600,LED,Intel,Intel® Iris Xe Graphics,1 TB,NVMe SSD,Windows 11 Home 64,1.35 Kg.
+61,"
+MacBook Air MLXY3TU/A M2 8Gb-256Gb Ssd-Liquid Retina-13.6inc-Gümüş
+",APPLE,MLXY3TU/A,MLXY3TU/A,37.999,TL,Apple,None,M2,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,13.6 inch,None,2560 x 1664,Full HD,APPLE,Paylaşılmıyor,256 GB,SSD,macOS Monterey,1.24 Kg.
+62,"
+Acer Nitro V 15 13.Nesil Core i5 13420H-RTX4050 6Gb-8Gb-1Tb Ssd-15-6inc-FreeDos
+",ACER,Nitro V,ANV15-51-50SY,30.999,TL,Intel,13. Nesil,Core i5,13420H,Turbo Boost 4.6 GHz,8,8 GB,DDR5,None,15.6 inch,None,1920 x 1080,IPS,NVIDIA,Rtx 4050,1 TB,SSD,FreeDOS,2.5 Kg.
+63,"
+Asus Rog Strix G15 6.Nesil Ryzen 7 6800H-RTX3050 4Gb-16Gb-512Gb Ssd-15.6inc-W11
+",ASUS,G513RC-HN219W-Gaming,G513RC-HN219W-Gaming,40.591,TL,AMD,6. Nesil,Ryzen™ 7,6800H,Turbo Boost 4.7 GHz,8,16 GB,DDR5,None,15.6 inch,144 Hz,1920 x 1080,Full HD,NVIDIA,RTX 3050,512 GB,NVMe SSD,Windows 11 Home 64,2.1 Kg.
+64,"
+Msi Thin 15 12.Nesil Core i5 12450H-RTX4050 6Gb-16Gb-512Gb Ssd-15.6inc-W11
+",MSI,Thin 15,THIN 15 B12VE-1627TR,34.999,TL,Intel,12. Nesil,Core i5,12450H,Turbo Boost 4.4 GHz,8,16 GB (2x8GB),DDR4,3200 MHz,15.6 inch,144 Hz,1920 x 1080,Full HD,NVIDIA,Rtx 4050,512 GB,NVMe SSD,Windows 11 Home 64,1.86 Kg.
+65,"
+Asus Vivobook 15 M1502 7.Nesil Ryzen 5 7530U-8Gb-512Gb Ssd-15.6inc-W11
+",ASUS,Vivobook 15,M1502YA-NJ022W,19.614,TL,AMD,7. Nesil,Ryzen™ 5,7530U,Turbo Boost 4.2 GHz,6,8 GB,DDR4,None,15.6 inch,60 Hz,1920 x 1080,Anti-Glare,AMD,AMD Radeon Graphics,512 GB,NVMe SSD,Windows 11 Home 64,1.7 Kg.
+66,"
+Huawei Matebook D16 12.Nesil Core i5 12450H-16Gb-512Gb Ssd-16inc-W11
+",HUAWEI,Matebook D16,53013DFR,27.299,TL,Intel,Intel 12.Nesil,Core i5,12450H,Turbo Boost 4.4 GHz,8,16 GB,LPDDR4X,None,16 inch,None,1920 x 1200,IPS,Intel,Intel UHD Graphics,512 GB,SSD,Windows 11 Home 64,1.7 Kg.
+67,"
+Lenovo Ip Gaming 3 12.Nesil Core i5 12500H-RTX3060 6Gb-16Gb-512 Ssd-16inç-W11
+",LENOVO,82SA00H5TX,82SA00H5TX,50.999,TL,Intel,12. Nesil,Core i5,12500H,Turbo Boost 4.5 GHz,12,16 GB,DDR4,3200 MHz,16 inch,165 Hz,1920 x 1200,WUXGA,NVIDIA,RTX 3060,512 GB,NVMe SSD,Windows 11 Home 64,2.6 Kg.
+68,"
+MacBook Air MLY33TU/A M2 8Gb-256Gb Ssd-Liquid Retina-13.6inc-Gece Yarısı
+",APPLE,MLY33TU/A,MLY33TU/A,38.999,TL,Apple,None,M2,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,13.6 inch,None,2560 x 1664,IPS,APPLE,Paylaşılmıyor,256 GB,SSD,macOS Monterey,1.24 Kg.
+69,"
+MacBook Pro MRX53TU/A M3 Max 36Gb-1Tb Ssd-Liquid Retina-14inc-Uzay Siyahı
+",APPLE,MacBook Pro M3 Pro,MRX53TU/A,132.499,TL,Apple,None,M3 Max,Paylaşılmıyor,Paylaşılmıyor,14,36 GB,Birleşik Bellek,None,14.2 inch,60 Hz,3024 x 1964,Retina,APPLE,None,1 TB,SSD,Mac OS,1.62 Kg.
+70,"
+MacBook Air MLY13TU/A M2 8Gb-256Gb Ssd-Liquid Retina-13.6inc-Yıldız ışığı
+",APPLE,MLY13TU/A,MLY13TU/A,38.999,TL,Apple,None,M2,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,13.6 inch,None,2560 x 1664,IPS,APPLE,Paylaşılmıyor,256 GB,SSD,macOS Monterey,1.24 Kg.
+71,"
+Casper Nirvana X600 12.Nesil Core i5 1235U-8Gb-500Gb Ssd-15.6inc-W11
+",CASPER,Nirvana X600,X600.1235-8E00T-G-F,18.999,TL,Intel,12. Nesil,Core i5,1235U,Turbo Boost 4.4 GHz,10,8 GB,DDR4,None,15.6 inch,60 Hz,1920 x 1080,IPS,Intel,Intel® Iris Xe Graphics,500 GB,NVMe SSD,Windows 11 Home 64,1.6 Kg.
+72,"
+Huawei Matebook D16 12.Nesil Core i5 12450H-16Gb-1Tb Ssd-16inc-W11
+",HUAWEI,Matebook D16,53013YJH,26.999,TL,Intel,Intel 12.Nesil,Core i5,12450H,Turbo Boost 4.4 GHz,8,16 GB,LPDDR4X,None,16 inch,None,1920 x 1200,IPS,Intel,Intel UHD Graphics,1 TB,SSD,Windows 11 Home 64,1.7 Kg.
+73,"
+MacBook Air MRYR3TU/A M3 8Gb-256Gb Ssd-Liquid Retina-15.3inc-Starlight
+",APPLE,Macbook Air M3,MRYR3TU/A,52.999,TL,Apple,None,M3,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,15.3 inch,None,2880 x 1864,IPS,APPLE,Paylaşılmıyor,256 GB,SSD,Mac OS,1.51 Kg.
+74,"
+Asus Rog Ally Ryzen Z1 Extreme-16Gb Ram-512Gb Ssd-7inc-W11
+",ASUS,RC71L-NH001W-Gaming,RC71L-NH001W-Gaming,36.740,TL,AMD,None,Ryzen™ Z1 Extreme,None,Turbo Boost 5.1 GHz,8,16 GB,LPDDR5,None,7 inch,120 Hz,1920 x 1080,Yok,AMD,AMD Radeon Graphics,512 GB,NVMe SSD,Windows 11 Home 64,0.608Kg
+75,"
+Lenovo Ideapad Flex 5 13.Nesil Core i5 1335U-8Gb-512Gb Ssd-16inc-W11
+",LENOVO,Ideapad Flex 5,82Y1003MTX,31.999,TL,Intel,13. Nesil,Core i5,1335U,Turbo Boost 4.6 GHz,10,8 GB,LPDDR4X,4266 MHz,16 inch,None,2560 x 1600,2.5K,Intel,Intel® Iris Xe Graphics,512 GB,NVMe SSD,Windows 11 Home 64,2.1 Kg.
+76,"
+Casper Nirvana C550 12.Nesil Core i5 1235U-8Gb-500Gb Ssd-15.6inc-W11
+",CASPER,Nirvana C550,C550.1235-8E00T-G-F,20.999,TL,Intel,12. Nesil,Core i5,1235U,Turbo Boost 4.4 GHz,10,8 GB,DDR4,3200 MHz,15.6 inch,60 Hz,1920 x 1080,IPS,Intel,Intel UHD Graphics,500 GB,SSD,Windows 11 Home 64,1.8 Kg.
+77,"
+Asus Vivobook Go 15 7.Nesil Ryzen 3 7320U-8Gb-256Gb Ssd-15.6inc-W11
+",ASUS,Vivobook Go 15,E1504FA-NJ072W,15.137,TL,AMD,7. Nesil,Ryzen™ 3,7320U,Turbo Boost 4.1 GHz,4,8 GB,LPDDR5,None,15.6 inch,60 Hz,1920 x 1080,LED,AMD,Radeon,256 GB,NVMe SSD,Windows 11 Home 64,1.65 Kg.
+78,"
+Hometech Alfa 620C Celeron N4020-4Gb-128Gb Emmc-14inc-W11
+",HOMETECH,Alfa 620,31.8054,6.999,TL,Intel,None,Celeron,N4020,1.1 GHz Turbo Boost 2.8 GHz,2,4 GB,SDRAM,None,14 inch,None,1366 x 768,HD,Intel,Intel UHD Graphics 600,128 GB,eMMC,Windows 11 Home 64,Belirtilmemiş.
+79,"
+Acer Nitro 5 12.Nesil Core i5 12500H-RTX4050 6Gb-8Gb-512Gb Ssd-15.6inc-W11
+",ACER,Nitro 5,AN515-58-51B4,34.999,TL,Intel,Intel 12.Nesil,Core i5,12500H,Turbo Boost 4.5 GHz,12,8 GB,DDR5,None,15.6 inch,None,1920 x 1080,LED,NVIDIA,Rtx 4050,512 GB,SSD,Windows 11 Home 64,2.5 Kg.
+80,"
+Casper Excalibur 13.Nesil Core i9 13900HX-RTX4070 8Gb-32Gb-1Tb Ssd-16inc-W11
+",CASPER,Excalibur,G911.1390-DQ70A-C,71.999,TL,Intel,13. Nesil,Core i9,13900HX,Turbo Boost 5.4 GHz,24,32 GB,DDR5,5200 MHz,16 inch,165 Hz,2560 x 1600,IPS,NVIDIA,RTX 4070,1 TB,NVMe SSD,Windows 11 Home 64,2.5 Kg.
+81,"
+Hp 15-fd0033nt 13.Nesil Core i3 1315U-8Gb-256Gb Ssd-15.6inc-W11
+",HP,15-FD0033NT,88T69EA,15.110,TL,Intel,13. Nesil,Core i3,1315U,Turbo Boost 4.5 GHz,6,8 GB,DDR4,None,15.6 inch,None,1920 x 1080,LED,Intel,Intel UHD Graphics,256 GB,NVMe SSD,Windows 11 Home 64,1.6 Kg.
+82,"
+Msi Katana 17 13.Nesil Core i7 13700H-RTX4070 8Gb-32Gb-1Tb Ssd-17.3inc-W11
+",MSI,Katana 17,KATANA 17 B13VGK-873TR,75.499,TL,Intel,13. Nesil,Core i7,13700H,Turbo Boost 5.0 GHz,14,32 GB (2x16GB),DDR5,5200 MHz,17.3 inch,144 Hz,1920 x 1080,Full HD,NVIDIA,RTX 4070,1 TB SSD,NVMe SSD,Windows 11 Home 64,2.6 Kg.
+83,"
+MacBook Air MRXV3TU/A M3 8Gb-256Gb Ssd-Liquid Retina-13.6inc-Midnight
+",APPLE,Macbook Air M3,MRXV3TU/A,45.499,TL,Apple,None,M3,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,13.6 inch,None,2560 x 1664,HD,APPLE,Paylaşılmıyor,256 GB,SSD,Mac OS,1.24 Kg.
+84,"
+Asus Vivobook 15 M1502 7.Nesil Ryzen 7 7730U-8Gb-512Gb Ssd-15.6inc-W11
+",ASUS,Vivobook 15,M1502YA-NJ119W,23.530,TL,AMD,7. Nesil,Ryzen™ 7,7730U,Turbo Boost 4.5 GHz,6,8 GB,DDR4,None,15.6 inch,60 Hz,1920 x 1080,Anti-Glare,AMD,AMD Radeon Graphics,512 GB,NVMe SSD,Windows 11 Home 64,1.7 Kg.
+85,"
+Casper Excalibur 13.Nesil Core i7 13700HX-RTX4060 8Gb-32Gb-1Tb Ssd-16inc-W11
+",CASPER,G911.1370-DQB0A-C,G911.1370-DQB0A-C,55.999,TL,Intel,13. Nesil,Core i7,13700HX,Turbo Boost 5.0 GHz,8,32 GB,DDR5,None,16 inch,165 Hz,2560 x 1600,Full HD,NVIDIA,RTX 4060,1 TB,NVMe SSD,Windows 11 Home 64,2.5 Kg.
+86,"
+Hp Victus 16-r0005nt 13.Nesil Core i7 13700H-RTX4070 8Gb-16Gb-512Ssd-16.1inc-W11
+",HP,Victus 16-r0005nt,7P6B2EA,61.359,TL,Intel,13. Nesil,Core i7,13700H,Turbo Boost 5.0 GHz,14,16 GB (2x8GB),DDR5,5200 MHz,16.1 inch,144 Hz,1920 x 1080,IPS,NVIDIA,RTX 4070,512 GB,NVMe SSD,Windows 11 Home 64,2.34 Kg.
+87,"
+Asus Vivobook 15 12.Nesil Core i5 1235U-8Gb-512Gb Ssd-15.6inc-W11
+",ASUS,Vivobook 15,X1502ZA-EJ031W,20.690,TL,Intel,12. Nesil,Core i5,1235U,Turbo Boost 4.4 GHz,10,8 GB,DDR4,None,15.6 inch,None,1920 x 1080,LED,Intel,Intel UHD Graphics,512 GB,NVMe SSD,Windows 11 Home 64,1.7 Kg.
+88,"
+MacBook Air MRXN3TU/A M3 8Gb-256Gb Ssd-Liquid Retina-13.6inc-Space Grey
+",APPLE,Macbook Air M3,MRXN3TU/A,45.499,TL,Apple,None,M3,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,13.6 inch,None,2560 x 1664,HD,APPLE,Paylaşılmıyor,256 GB,SSD,Mac OS,1.24 Kg.
+89,"
+MacBook Pro MRX73TU/A M3 Pro 18Gb-1Tb Ssd-Liquid Retina-14inc-Gümüş
+",APPLE,MacBook Pro M3 Pro,MRX73TU/A,101.499,TL,Apple,None,M3 Pro,Paylaşılmıyor,Paylaşılmıyor,12,18 GB,Birleşik Bellek,None,14.2 inch,60 Hz,3024 x 1964,Retina,APPLE,None,1 TB,SSD,Mac OS,1.61 Kg.
+90,"
+Dell G15 5530 13.Nesil Core i9 13900HX-RTX4060 8Gb-32Gb-1Tb Ssd-15.6inc-W11
+",DELL,G15 5530,G15-5530-9138GW321,69.637,TL,Intel,13. Nesil,Core i9,13900HX,Turbo Boost 5.4 GHz,24,32 GB (2x16GB),DDR5,4800 MHz,15.6 inch,165 Hz,1920 x 1080,Full HD,NVIDIA,RTX 4060,1 TB,NVMe SSD,Windows 11 Home 64,2.81 Kg.
+91,"
+Asus Tuf Gaming F15 12.Nesil Core i5 12500H-RTX3050 4Gb-8Gb-512Gb Ssd-15.6-W11
+",ASUS,Tuf Gaming F15,FX507ZC4-HN081W-Gaming,27.099,TL,Intel,12. Nesil,Core i5,12500H,Turbo Boost 4.5 GHz,12,8 GB,DDR4,3200 MHz,15.6 inch,144 Hz,1920 x 1080,Anti-Glare,NVIDIA,RTX 3050,512 GB,NVMe SSD,Windows 11 Home 64,2.2 Kg.
+92,"
+MacBook Air MQKP3TU/A M2 8Gb-256Gb Ssd-Liquid Retina-15.3inc-Uzay Grisi
+",APPLE,MacBook Air,MQKP3TU/A,44.499,TL,Apple,None,M2,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,15.3 inch,None,2880 x 1864,Full HD,APPLE,Paylaşılmıyor,256 GB,SSD,macOS Ventura,1.51 Kg.
+93,"
+Huawei Matebook D15 11.Nesil Core i5 1155G7-8Gb-256Gb Ssd-15.6inc-W11
+",HUAWEI,Matebook D15,53013PMR,18.999,TL,Intel,11. Nesil,Core i5,1155G7,2.5 GHz Turbo Boost 4.5 GHz,4,8 GB,LPDDR4X,None,15.6 inch,None,1920 x 1080,IPS,Intel,Intel® Iris Xe Graphics,256 GB,SSD,Windows 11 Home 64,1.56 Kg.
+94,"
+MacBook Pro MR7J3TU/A M3 8Gb-512Gb Ssd-Liquid Retina-14inc-Gümüş
+",APPLE,MacBook Pro M3,MR7J3TU/A,58.999,TL,Apple,None,M3,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,14.2 inch,60 Hz,3024 x 1964,Retina,APPLE,None,512 GB,SSD,Mac OS,1.55 Kg.
+95,"
+MacBook Pro MRX43TU/A M3 Pro 18Gb-1Tb Ssd-Liquid Retina-14inc-Uzay Siyahı
+",APPLE,MacBook Pro M3 Pro,MRX43TU/A,101.499,TL,Apple,None,M3 Pro,Paylaşılmıyor,Paylaşılmıyor,12,18 GB,Birleşik Bellek,None,14.2 inch,60 Hz,3024 x 1964,Retina,APPLE,None,1 TB,SSD,Mac OS,1.61 Kg.
+96,"
+Hp Omen 16-xf0003nt 7.Nesil Ryzen 7 7840HS-RTX4070 8GB-32Gb-1Tb-16.1inc-W11
+",HP,Omen,8X174EA,66.106,TL,AMD,7. Nesil,Ryzen™ 7,7840HS,Turbo Boost 5.1 GHz,8,32 GB (2x16GB),DDR5,5600 MHz,16.1 inch,165 Hz,1920 x 1080,Full HD,NVIDIA,RTX 4070,1 TB,NVMe SSD,Windows 11 Home 64,2.4 Kg.
+97,"
+Casper Excalibur 12.Nesil Core i5 12450H-RTX4050 6Gb-16Gb-500Gb Ssd-15.6inc-W11
+",CASPER,Excalibur,G870.1245-BVA0P-B,34.999,TL,Intel,12. Nesil,Core i5,12450H,Turbo Boost 4.4 GHz,8,16 GB,DDR4,3200 MHz,15.6 inch,144 Hz,1920 x 1080,IPS,NVIDIA,Rtx 4050,500 GB,NVMe SSD,Windows 11 Home 64,2.5 Kg.
+98,"
+Lenovo Ideapad Flex 5 12.Nesil Core i5 1235U-8Gb-512Gb Ssd-16inc-W11
+",LENOVO,Ideapad Flex 5,82R8009RTX,31.999,TL,Intel,12. Nesil,Core i5,1235U,Turbo Boost 4.4 GHz,10,8 GB,DDR4,4266 MHz,16 inch,None,2560 x 1600,Full HD,Intel,Intel® Iris Xe Graphics,512 GB,NVMe SSD,Windows 11 Home 64,2.1 Kg.
+99,"
+Huawei Matebook D15 5.Nesil Ryzen 7 5700U-16Gb-512Gb Ssd-15.6inc-W11
+",HUAWEI,Matebook D15,53013SKV,18.997,TL,AMD,5. Nesil,Ryzen™ 7,5700U,1.8 GHz Turbo Boost 4.3 GHz,8,16 GB,DDR4,None,15.6 inch,None,1920 x 1080,IPS,AMD,AMD Radeon Graphics,512 GB,NVMe SSD,Windows 11 Home 64,1.56 Kg.
+100,"
+Hp Omen 16-n0000nt 6.Nesil Ryzen 9 6900HX-RTX3070TI 8GB-32Gb-1Tb-16.1inc-W11
+",HP,793K5EA,793K5EA,75.219,TL,AMD,6. Nesil,Ryzen™ 9,6900HX,Turbo Boost 4.9 GHz,8,32 GB (2x16GB),DDR5,4800 MHz,16.1 inch,165 Hz,2560 x 1440,QHD,NVIDIA,RTX 3070Ti,1 TB,NVMe SSD,Windows 11 Home 64,2.46 Kg.
+101,"
+Msi Thin Gf63 12.Nesil Core i5 12450H-RTX2050 4Gb-8Gb-512Gb Ssd-15.6inc-W11
+",MSI,Thin GF63,THIN GF63 12UCX-1202TR,23.699,TL,Intel,12. Nesil,Core i5,12450H,Turbo Boost 4.4 GHz,8,8 GB (1x8GB),DDR4,3200 MHz,15.6 inch,144 Hz,1920 x 1080,Full HD,NVIDIA,RTX 2050,512 GB,NVMe SSD,Windows 11 Home 64,1.86 Kg.
+102,"
+Lenovo Ideapad Düet 5 12.Nesil Core i7 1255U-16Gb-512Gb Ssd-12.4inc-W11
+",LENOVO,Ideapad Düet 5,82TQ0042TX,47.999,TL,Intel,12. Nesil,Core i7,1255U,Turbo Boost 4.7 GHz,10,16 GB,LPDDR4X,4266 MHz,12.4 inch,None,2560 x 1600,Full HD,Intel,Intel® Iris Xe Graphics,512 GB,NVMe SSD,Windows 11 Home 64,1.2 Kg.
+103,"
+MacBook Pro MTL83TU/A M3 8Gb-1Tb Ssd-Liquid Retina-14inc-Uzay Grisi
+",APPLE,MacBook Pro M3,MTL83TU/A,64.599,TL,Apple,None,M3,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,14.2 inch,60 Hz,3024 x 1964,Retina,APPLE,None,1 TB,SSD,Mac OS,1.55 Kg.
+104,"
+Casper Excalibur 12.Nesil Core i7 12650H-RTX4050 6Gb-16Gb-1Tb Ssd-15.6inc-W11
+",CASPER,Excalibur,G870.1265-BQA0A-B,41.999,TL,Intel,12. Nesil,Core i7,12650H,Turbo Boost 4.7 GHz,10,16 GB,DDR4,3200 MHz,15.6 inch,144 Hz,1920 x 1080,IPS,NVIDIA,Rtx 4050,1 TB,NVMe SSD,Windows 11 Home 64,2.5 Kg.
+105,"
+Casper Excalibur 12.Nesil Core i5 12450H-RTX4050 6Gb-16Gb-1Tb Ssd-15.6inc-W11
+",CASPER,G870.1245-BQA0P-B,G870.1245-BQA0P-B,37.499,TL,Intel,12. Nesil,Core i5,12450H,Turbo Boost 4.4 GHz,8,16 GB,DDR4,3200 MHz,15.6 inch,144 Hz,1920 x 1080,IPS,NVIDIA,Rtx 4050,1 TB,NVMe SSD,Windows 11 Home 64,2.5 Kg.
+106,"
+Hp Victus 16-e0050nt 5.Nesil Ryzen 7 5800H-RTX3060 6Gb-16Gb-512Gb-16.1inc-W11
+",HP,54S71EA,54S71EA,46.076,TL,AMD,5. Nesil,Ryzen™ 7,5800H,Turbo Boost 4.4 GHz,8,16 GB (2x8GB),DDR4,3200 MHz,16.1 inch,144 Hz,1920 x 1080,Full HD,NVIDIA,RTX 3060,512 GB,NVMe SSD,Windows 11 Home 64,Belirtilmemiş.
+107,"
+Msi Thin GF63 12.Nesil Core i7 12650H-RTX4050 6GB-16GB-512Gb Ssd-15.6inc-FreeDos
+",MSI,Thin GF63,THIN GF63 12VE-099XTR,38.999,TL,Intel,12. Nesil,Core i7,12650H,Turbo Boost 4.7 GHz,10,16 GB (2x8GB),DDR4,3200 MHz,15.6 inch,144 Hz,1920 x 1080,Full HD,NVIDIA,Rtx 4050,512 GB,NVMe SSD,FreeDOS,1.86 Kg.
+108,"
+Casper Excalibur 12.Nesil Core i7 12650H-RTX4060 8Gb-16Gb-1Tb Ssd-15.6inc-W11
+",CASPER,Excalibur,G870.1265-BQB0A-B,45.999,TL,Intel,12. Nesil,Core i7,12650H,Turbo Boost 4.7 GHz,10,16 GB,DDR4,3200 MHz,15.6 inch,144 Hz,1920 x 1080,IPS,NVIDIA,RTX 4060,1 TB,NVMe SSD,Windows 11 Home 64,2.5 Kg.
+109,"
+Acer Predator 13.Nesil Core i9 13900HX-RTX4080 12Gb-32Gb-1Tb Ssd-18inc-W11
+",ACER,Acer Predator 13.Nesil Core i9 Notebook,PH18-71-91SC,98.999,TL,Intel,13. Nesil,Core i9,13900HX,Turbo Boost 5.4 GHz,24,32 GB,DDR5,None,18 inch,240 Hz,2560 x 1600,LCD,NVIDIA,RTX 4080,1 TB,NVMe SSD,Windows 11 Home 64,3.4 Kg.
+110,"
+Acer Nitro 5 12.Nesil Core i7 12700H-RTX4060 8Gb-16Gb-1TB Ssd-15.6inc-FreeDos
+",ACER,Acer Nitro 5 12.Nesil Core i7 Notebook,AN515-58-775T,46.999,TL,Intel,Intel 12.Nesil,Core i7,12700H,Turbo Boost 4.7 GHz,14,16 GB,DDR5,None,15.6 inch,165 Hz,1920 x 1080,LED,NVIDIA,RTX 4060,1 TB,SSD,Linux,2.5 Kg.
+111,"
+Lenovo Ideapad Düet 5 12.Nesil Core i5 1235U-8Gb-256Gb Ssd-12.4inc-W11
+",LENOVO,Ideapad Düet 5,82TQ004WTX,35.999,TL,Intel,12. Nesil,Core i5,1235U,Turbo Boost 4.4 GHz,10,8 GB,LPDDR4X,4266 MHz,12.4 inch,None,2560 x 1600,Full HD,Intel,Intel® Iris Xe Graphics,256 GB,NVMe SSD,Windows 11 Home 64,1.2 Kg.
+112,"
+Asus Zenbook S13 Oled Ux5304 Evo Core Ultra 7 155U-32Gb-1Tb Ssd-13.3inc-W11
+",ASUS,Zenbook S13,UX5304MA-NQ012W,71.777,TL,Intel,1. Nesil,Core Ultra 7,155U,Turbo Boost 4.8 GHz,12,32 GB,Birleşik Bellek,None,13.3 inch,60 Hz,2880 x 1800,OLED,Intel,Intel Graphics,1 TB,NVMe SSD,Windows 11 Home 64,1 Kg.
+113,"
+Lenovo Yoga Pro 7 13.Nesil Core i7 13700H-RTX4050 6Gb-16Gb-512Gb-14.5inc-W11
+",LENOVO,Yoga Pro 7,82Y7004LTX,69.999,TL,Intel,13. Nesil,Core i7,13700H,Turbo Boost 5.0 GHz,14,16 GB,LPDDR5,5200 MHz,14.5 inch,None,3072 x 1920,3K,NVIDIA,Rtx 4050,512 GB,NVMe SSD,Windows 11 Home 64,1.49 Kg.
+114,"
+MacBook Air MRYU3TU/A M3 8Gb-256Gb Ssd-Liquid Retina-15.3inc-Midnight
+",APPLE,Macbook Air M3,MRYU3TU/A,52.999,TL,Apple,None,M3,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,15.3 inch,None,2880 x 1864,HD,APPLE,Paylaşılmıyor,256 GB,SSD,Mac OS,1.51 Kg.
+115,"
+Msi Vector 16HX 14.Nesil Core i9 14900HX-RTX4080 12Gb-32Gb-1Tb Ssd-16inc-W11
+",MSI,Vector 16HX,VECTOR 16 HX A14VHG-437TR,110.499,TL,Intel,14. Nesil,Core i9,14900HX,Turbo Boost 5.8 GHz,24,32 GB,DDR5,5600 MHz,16 inch,240 Hz,2560 x 1600,QHD,NVIDIA,RTX 4080,1 TB,NVMe SSD,Windows 11 Home 64,2.70 Kg.
+116,"
+Acer Aspire 5 12.Nesil Core i5 12450H -8Gb-512Gb Ssd-15.6inc-W11
+",ACER,Aspire 5 Notebook,A515-57-57FM,22.084,TL,Intel,Intel 12.Nesil,Core i5,12450H,Turbo Boost 4.4 GHz,12,8 GB,DDR4,None,15.6 inch,60 Hz,1920 x 1080,IPS,Intel,Intel UHD Graphics,512 GB,SSD,Windows 11 Home 64,1.76 Kg.
+117,"
+Acer Nitro 16 13.Nesil Core i5 13500H-RTX4050 6Gb-8Gb-1Tb Ssd-16inc-FreeDos
+",ACER,Acer Nitro 5 Notebook,AN16-51-532R,38.999,TL,Intel,13. Nesil,Core i5,13500H,Turbo Boost 4.7 GHz,12,8 GB,DDR5,None,16 inch,None,1920 x 1200,LED,NVIDIA,Rtx 4050,1 TB,SSD,FreeDOS,2.5 Kg.
+118,"
+Asus Tuf Gaming F15 11.Nesil Core i5 11400H-RTX3050 4Gb-8Gb-512GbSsd-15.6inc-W11
+",ASUS,FX506HC-HN429W-Gaming,FX506HC-HN429W-Gaming,32.945,TL,Intel,11. Nesil,Core i5,11400H,Turbo Boost 4.5 GHz,6,8 GB,DDR4,3200 MHz,15.6 inch,None,1920 x 1080,Anti-Glare,NVIDIA,RTX 3050,512 GB,NVMe SSD,Windows 11 Home 64,2.3 Kg.
+119,"
+MacBook Air MRXT3TU/A M3 8Gb-256Gb Ssd-Liquid Retina-13.6inc-Starlight
+",APPLE,Macbook Air M3,MRXT3TU/A,45.499,TL,Apple,None,M3,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,13.6 inch,None,2560 x 1664,HD,APPLE,Paylaşılmıyor,256 GB,SSD,Mac OS,1.24 Kg.
+120,"
+MacBook Pro MRW63TU/A M3 Pro 36Gb-512Gb Ssd-Liquid Retina-16inc-Gümüş
+",APPLE,MacBook Pro M3 Pro,MRW63TU/A,107.999,TL,Apple,None,M3 Pro,Paylaşılmıyor,Paylaşılmıyor,12,36 GB,Birleşik Bellek,None,16.2 inch,60 Hz,3456 x 2234,Retina,APPLE,None,512 GB,SSD,Mac OS,2.14 Kg.
+121,"
+MacBook Pro MR7K3TU/A M3 8Gb-1TB Ssd-Liquid Retina-14inc-Gümüş
+",APPLE,Macbook Pro M3,MR7K3TU/A,64.599,TL,Apple,None,M3,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,14.2 inch,60 Hz,3024 x 1964,Retina,APPLE,None,1 TB,SSD,Mac OS,1.55 Kg.
+122,"
+Acer Aspire 5 11.Nesil Core i5 1135G7 -8Gb-512Gb Ssd-15.6inc-Mx450 2Gb-W11
+",ACER,Aspire 5,A515-56G-51R8,19.999,TL,Intel,11. Nesil,Core i5,1135G7,Turbo Boost 4.1 GHz,4,8 GB,DDR4,None,15.6 inch,None,1920 x 1080,IPS,NVIDIA,MX450,512 GB,SSD,Windows 11 Home 64,1.8 Kg.
+123,"
+Hp Omen 17-ck2008nt 13.Nesil Core i7 13700HX-RTX4080 12Gb-32Gb-2Tb-17inc-W11
+",HP,7P654EA,7P654EA,101.211,TL,Intel,13. Nesil,Core i7,13700HX,Turbo Boost 5.0 GHz,16,32 GB (2x16GB),DDR5,4800 MHz,17.3 inch,240 Hz,2560 x 1440,Mikro Kenarlı,NVIDIA,RTX 4080,2 TB,NVMe SSD,Windows 11 Home 64,2.78 Kg.
+124,"
+MacBook Air MLY23TU/A M2 8Gb-512Gb Ssd-Liquid Retina-13.6inc-Yıldız ışığı
+",APPLE,MLY23TU/A,MLY23TU/A,46.999,TL,Apple,None,M2,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,13.6 inch,None,2560 x 1664,HD,APPLE,Paylaşılmıyor,512 GB,SSD,macOS Monterey,1.24 Kg.
+125,"
+MacBook Air MRYM3TU/A M3 8Gb-256Gb Ssd-Liquid Retina-15.3inc-Space Grey
+",APPLE,Macbook Air M3,MRYM3TU/A,52.999,TL,Apple,None,M3,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,15.3 inch,None,2880 x 1864,HD,APPLE,Paylaşılmıyor,256 GB,SSD,Mac OS,1.51 Kg.
+126,"
+Asus Rog Zephyrus G16 Core Ultra 9 185H-RTX4070 8Gb-32Gb-1Tb-16inc-W11
+",ASUS,Rog Zephyrus G16,GU605MI-QR044W-Gaming,119.999,TL,Intel,1. Nesil,Core Ultra 9,185H,Turbo Boost 5.1 GHz,16,32 GB (2x16GB),LPDDR5,None,16 inch,240 Hz,2560 x 1600,2.5K,NVIDIA,RTX 4070,1 TB,NVMe SSD,Windows 11 Home 64,1.95 Kg.
+127,"
+MacBook Air MQKW3TU/A M2 8Gb-256Gb Ssd-Liquid Retina-15.3inc-Gece Yarısı
+",APPLE,MacBook Air,MQKW3TU/A,42.097,TL,Apple,None,M2,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,15.3 inch,None,2880 x 1864,IPS,APPLE,Paylaşılmıyor,256 GB,SSD,macOS Ventura,1.51 Kg.
+128,"
+MacBook Air Z124M116256-TQ6 M1 16Gb-256Gb Ssd-Retina-13.3inc-Space Grey
+",APPLE,Z124M116256-TQ6,Z124M116256-TQ6,37.999,TL,Apple,None,M1,Paylaşılmıyor,Paylaşılmıyor,8,16 GB,Birleşik Bellek,None,13.3 inch,None,2560 x 1600,IPS,APPLE,Paylaşılmıyor,256 GB,SSD,Mac OS,1.29 Kg.
+129,"
+MacBook Air MRYN3TU/A M3 8Gb-512Gb Ssd-Liquid Retina-15.3inc-Space Grey
+",APPLE,Macbook Air M3,MRYN3TU/A,62.999,TL,Apple,None,M3,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,15.3 inch,None,2880 x 1864,Retina,APPLE,Paylaşılmıyor,512 GB,SSD,Mac OS,1.51 Kg.
+130,"
+MacBook Pro MRX83TU/A M3 Max 36Gb-1Tb Ssd-Liquid Retina-14inc-Gümüş
+",APPLE,MacBook Pro M3 Pro,MRX83TU/A,106.949,TL,Apple,None,M3 Max,Paylaşılmıyor,Paylaşılmıyor,14,36 GB,Birleşik Bellek,None,14.2 inch,60 Hz,3024 x 1964,Retina,APPLE,None,1 TB,SSD,Mac OS,1.61 Kg.
+131,"
+Casper Excalibur 12.Nesil Core i5 12450H-RTX4060 8Gb-32Gb-1Tb Ssd-15.6inc-W11
+",CASPER,G870.1245-DQB0P-B,G870.1245-DQB0P-B,41.499,TL,Intel,12. Nesil,Core i5,12450H,Turbo Boost 4.4 GHz,8,32 GB,DDR4,3200 MHz,15.6 inch,144 Hz,1920 x 1080,IPS,NVIDIA,RTX 4060,1 TB,NVMe SSD,Windows 11 Home 64,2.5 Kg.
+132,"
+Lenovo Yoga Slim 7 Pro Evo 12.Nesil Core i5 1240P-16Gb-512Gb Ssd-14inc-W11
+",LENOVO,Yoga Slim 7 Pro,82SV009QTX,42.999,TL,Intel,12. Nesil,Core i5,1240P,Turbo Boost 4.4 GHz,12,16 GB,LPDDR5,4800 MHz,14 inch,None,2880 x 1800,Dokunmatik,Intel,Intel® Iris Xe Graphics,512 GB,NVMe SSD,Windows 11 Home 64,1.32 Kg.
+133,"
+Lenovo Legion Pro 5 13.Nesil Core i9 13900H-RTX4070 8Gb-32Gb-1Tb Ssd-16inc-W11
+",LENOVO,Legion Pro 5,82WK00J5TX,95.999,TL,Intel,13. Nesil,Core i9,13900HX,Turbo Boost 5.4 GHz,24,32 GB (2x16GB),DDR5,5600 MHz,16 inch,240 Hz,2560 x 1600,Anti-Glare,NVIDIA,RTX 4070,1 TB,NVMe SSD,Windows 11 Home 64,2.55 Kg.
+134,"
+MacBook Pro MRX33TU/A M3 Pro 18Gb-512Gb Ssd-Liquid Retina-14inc-Uzay Siyahı
+",APPLE,MacBook Pro M3 Pro,MRX33TU/A,84.999,TL,Apple,None,M3 Pro,Paylaşılmıyor,Paylaşılmıyor,11,18 GB,Birleşik Bellek,None,14.2 inch,60 Hz,3024 x 1964,Retina,APPLE,None,512 GB,SSD,Mac OS,1.61 Kg.
+135,"
+Acer Nitro 5 5.Nesil Ryzen 7 5800H-RTX3080 8Gb-16Gb-1Tb Ssd-15.6inc-W11
+",ACER,Nitro 5,AN515-45-R1Y9,42.999,TL,AMD,5. Nesil,Ryzen™ 7,5800H,Turbo Boost 4.4 GHz,8,16 GB,DDR4,None,15.6 inch,144 Hz,1920 x 1080,Full HD,NVIDIA,RTX 3080,1 TB,SSD,Windows 11 Home 64,2.2 Kg.
+136,"
+Asus Vivobook 15 12.Nesil Core i3 1215U-4Gb-256Gb Ssd-15.6inc-W11
+",ASUS,Vivobook 15,X1502ZA-EJ652W,15.124,TL,Intel,12. Nesil,Core i3,1215U,Turbo Boost 4.4 GHz,10,4 GB,DDR4,None,15.6 inch,None,1920 x 1080,LED,Intel,Intel UHD Graphics,256 GB,NVMe SSD,Windows 11 Home 64,1.7 Kg.
+137,"
+MacBook Air MQKQ3TU/A M2 8Gb-512Gb Ssd-Liquid Retina-15.3inc-Uzay Grisi
+",APPLE,MQKQ3TU/A,MQKQ3TU/A,53.499,TL,Apple,None,M2,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,15.3 inch,None,2880 x 1864,Retina,APPLE,Paylaşılmıyor,512 GB,SSD,macOS Ventura,1.51 Kg.
+138,"
+MacBook Air MLXX3TU/A M2 8Gb-512Gb Ssd-Liquid Retina-13.6inc-Uzay Grisi
+",APPLE,MLXX3TU/A,MLXX3TU/A,46.999,TL,Apple,None,M2,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,13.6 inch,None,2560 x 1664,HD,APPLE,Paylaşılmıyor,512 GB,SSD,macOS Monterey,1.24 Kg.
+139,"
+Msi Claw A1M Core Ultra 7 155H-16Gb-1Tb Ssd-7inc-W11
+",MSI,Claw A1M,CLAW A1M-089TR,48.999,TL,Intel,None,Core Ultra 7,155H,Turbo Boost 4.8 GHz,16,16 GB,LPDDR5,6400 MHz,7 inch,None,1920 x 1080,Full HD,Intel,Arc™ Graphics,1 TB,NVMe SSD,Windows 11 Home 64,"0,675 Gr."
+140,"
+Dell G15 5530 13.Nesil Core i9 13900HX-RTX4060 8Gb-32Gb-1Tb Ssd-15.6inc-W11
+",DELL,G15 5530,G55302401017H,63.208,TL,Intel,13. Nesil,Core i9,13900HX,Turbo Boost 5.4 GHz,24,32 GB (2x16GB),DDR5,4800 MHz,15.6 inch,165 Hz,1920 x 1080,Full HD,NVIDIA,RTX 4060,1 TB,NVMe SSD,Windows 11 Home 64,2.81 Kg.
+141,"
+MacBook Air Z160M2JT16256-TQ6 M2 16Gb-256Gb Ssd-Retina-13.3inc-Gece Yarısı
+",APPLE,MacBook Air M2,Z160M2JT16256-TQ6,51.699,TL,Apple,None,M2,Paylaşılmıyor,Paylaşılmıyor,8,16 GB,Birleşik Bellek,None,13.6 inch,None,2560 x 1664,Retina,APPLE,Paylaşılmıyor,256 GB,SSD,macOS Monterey,1.24 Kg.
+142,"
+Msi Prestige 16 Evo Core Ultra 7 155H-RTX4060 8GB-32Gb-1Tb Ssd-16inc-W11
+",MSI,Prestige 16,PRESTIGE 16 AI STUDIO B1VFG-024TR,89.810,TL,Intel,None,Core Ultra 7,155H,Turbo Boost 4.8 GHz,16,32 GB,LPDDR5,None,16 inch,None,2560 x 1600,QHD,NVIDIA,RTX 4060,1 TB,NVMe SSD,Windows 11 Home 64,1.6 Kg.
+143,"
+MacBook Air MQKV3TU/A M2 8Gb-512Gb Ssd-Liquid Retina-15.3inc-Yıldız ışığı
+",APPLE,MQKV3TU/A,MQKV3TU/A,53.499,TL,Apple,None,M2,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,15.3 inch,None,2880 x 1864,HD,APPLE,Paylaşılmıyor,512 GB,SSD,macOS Ventura,1.51 Kg.
+144,"
+Asus Rog Strix G16 13.Nesil Core i7 13650HX-RTX4060 8Gb-16Gb-512Gb-16inc-W11
+",ASUS,Rog Strix G16,G614JV-N3110W-Gaming,61.999,TL,Intel,13. Nesil,Core i7,13650HX,Turbo Boost 4.9 GHz,14,16 GB,DDR5,4800 MHz,16 inch,165 Hz,1920 x 1200,Full HD,NVIDIA,RTX 4060,512 GB,NVMe SSD,Windows 11 Home 64,2.5 Kg.
+145,"
+Hp 15-fc0017nt 7.Nesil Ryzen 5 7520U-8Gb-256Gb Ssd-15.6inc-W11
+",HP,15-FC0017NT,7Q9K9EA,18.411,TL,AMD,None,Ryzen™ 5,7520U,2.8 GHz Turbo Boost 4.3 GHz,4,8 GB,LPDDR5,None,15.6 inch,60 Hz,1920 x 1080,Full HD,AMD,AMD Radeon Graphics,256 GB,NVMe SSD,Windows 11 Home 64,1.6 Kg.
+146,"
+MacBook Air MRXP3TU/A M3 8Gb-512Gb Ssd-Liquid Retina-13.6inc-Space Grey
+",APPLE,Macbook Air M3,MRXP3TU/A,52.999,TL,Apple,None,M3,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,13.6 inch,None,2560 x 1664,Retina,APPLE,Paylaşılmıyor,512 GB,SSD,Mac OS,1.24 Kg.
+147,"
+Asus Rog Zephyrus G16 Core Ultra 9 185H-RTX4090 16Gb-32Gb-2Tb-16inc-W11
+",ASUS,Rog Zephyrus G16,GU605MY-OLED009W-Gaming,186.262,TL,Intel,1. Nesil,Core Ultra 9,185H,Turbo Boost 5.1 GHz,16,32 GB (2x16GB),LPDDR5,None,16 inch,240 Hz,2560 x 1600,OLED,NVIDIA,RTX 4090,2 TB,NVMe SSD,Windows 11 Home 64,1.95 Kg.
+148,"
+MacBook Air Z160M2JT16512-TQ6 M2 16Gb-512Gb Ssd-Retina-13.3inc-Gece Yarısı
+",APPLE,MacBook Air M2,Z160M2JT16512-TQ6,58.899,TL,Apple,None,M2,Paylaşılmıyor,Paylaşılmıyor,8,16 GB,Birleşik Bellek,None,13.6 inch,None,2560 x 1664,Retina,APPLE,Paylaşılmıyor,512 GB,SSD,macOS Monterey,1.24 Kg.
+149,"
+Casper Excalibur 12.Nesil Core i5 12450H-RTX2050 4Gb-8Gb-500Gb Ssd-15.6inc-W11
+",CASPER,Excalibur,G870.1245-8VG0T-B,29.999,TL,Intel,12. Nesil,Core i5,12450H,Turbo Boost 4.4 GHz,8,8 GB,DDR4,3200 MHz,15.6 inch,144 Hz,1920 x 1080,IPS,NVIDIA,RTX 2050,500 GB,NVMe SSD,Windows 11 Home 64,2.5 Kg.
+150,"
+MacBook Air MQKR3TU/A M2 8Gb-256Gb Ssd-Liquid Retina-15.3inc-Gümüş
+",APPLE,MacBook Air,MQKR3TU/A,44.499,TL,Apple,None,M2,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,15.3 inch,None,2880 x 1864,IPS,APPLE,Paylaşılmıyor,256 GB,SSD,macOS Ventura,1.51 Kg.
+151,"
+MacBook Pro MPHK3TU/A M2 Max 32Gb-1Tb Ssd-Liquid Retina-14inc-Gümüş
+",APPLE,MacBook Pro,MPHK3TU/A,112.372,TL,Apple,None,M2 Max,Paylaşılmıyor,Paylaşılmıyor,12,32 GB,Birleşik Bellek,None,14.2 inch,60 Hz,3024 x 1964,Retina,APPLE,None,1 TB,SSD,macOS Ventura,1.65 Kg.
+152,"
+Lenovo Legion 5 Pro 12.Nesil Core i7 12700H-RTX3060 6Gb-16Gb-1Tb Ssd-16inc-W11
+",LENOVO,Legion 5 Pro,82RF00N1TX,66.999,TL,Intel,12. Nesil,Core i7,12700H,Turbo Boost 4.7 GHz,14,16 GB (2x8GB),DDR5,4800 MHz,16 inch,165 Hz,2560 x 1600,Anti-Glare,NVIDIA,RTX 3060,1 TB,NVMe SSD,Windows 11 Home 64,2.5 Kg.
+153,"
+MacBook Air MRYP3TU/A M3 8Gb-256Gb Ssd-Liquid Retina-15.3inc-Silver
+",APPLE,Macbook Air M3,MRYP3TU/A,52.999,TL,Apple,None,M3,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,15.3 inch,None,2880 x 1864,Full HD,APPLE,Paylaşılmıyor,256 GB,SSD,Mac OS,1.51 Kg.
+154,"
+Hp Spectre X360 14-ef2004nt Evo 13.Nesil Core i7 1355U-16Gb-1Tb Ssd-13.5inc-W11
+",HP,Spectre X360,7P697EA,58.658,TL,Intel,13. Nesil,Core i7,1355U,Turbo Boost 5.0 GHz,10,16 GB,LPDDR4X,4266 MHz,13.5 inch,None,1920 x 1280,IPS,Intel,None,1 TB,NVMe SSD,Windows 11 Home 64,1.36 Kg.
+155,"
+MacBook Pro MRW23TU/A M3 Pro 36Gb-512Gb Ssd-Liquid Retina-16inc-Uzay Siyahı
+",APPLE,MacBook Pro M3 Pro,MRW23TU/A,107.999,TL,Apple,None,M3 Pro,Paylaşılmıyor,Paylaşılmıyor,12,36 GB,Birleşik Bellek,None,16.2 inch,60 Hz,3456 x 2234,Retina,APPLE,None,512 GB,SSD,Mac OS,2.14 Kg.
+156,"
+MacBook Pro MRX63TU/A M3 Pro 18Gb-512Gb Ssd-Liquid Retina-14inc-Gümüş
+",APPLE,MacBook Pro M3 Pro,MRX63TU/A,84.999,TL,Apple,None,M3 Pro,Paylaşılmıyor,Paylaşılmıyor,11,18 GB,Birleşik Bellek,None,14.2 inch,60 Hz,3024 x 1964,Retina,APPLE,None,512 GB,SSD,Mac OS,1.61 Kg.
+157,"
+Acer Swift 14 Evo 13.Nesil Core i7 13700H-16Gb-512Gb Ssd-14inc-W11
+",ACER,Acer Swift 14 13.Nesil Core i7 Notebook,SF14-71T-76SL,47.058,TL,Intel,13. Nesil,Core i7,13700H,Turbo Boost 5.0 GHz,14,16 GB,DDR5,None,14 inch,60 Hz,1920 x 1080,LCD,Intel,None,512 GB,NVMe SSD,Windows 11 Home 64,1.2 Kg.
+158,"
+Lenovo Legion Pro 5 13.Nesil Core i7 13700H-RTX4070 8Gb-32Gb-1Tb Ssd-16inc-W11
+",LENOVO,Legion Pro 5,82WK0023TX,89.999,TL,Intel,13. Nesil,Core i7,13700HX,Turbo Boost 5.0 GHz,16,32 GB (2x16GB),DDR5,4800 MHz,16 inch,240 Hz,2560 x 1600,Anti-Glare,NVIDIA,RTX 4070,1 TB,NVMe SSD,Windows 11 Home 64,2.55 Kg.
+159,"
+Acer Swift Edge 16 7. Nesil Ryzen 7 7840U-32Gb-1Tb Ssd-16inc-W11
+",ACER,Swift Edge 16,SFE16-43-R4FA,46.999,TL,AMD,None,Ryzen™ 7,7840U,"3,3 GHz",8,32 GB,LPDDR5,None,16 inch,120 Hz,3200 x 2000,OLED,AMD,Radeon,1 TB,NVMe SSD,Windows 11 Home 64,1.24 Kg.
+160,"
+Lenovo Yoga Book 9 13.Nesil Core i7 1355U-16Gb-1Tb Ssd-13.3inc-W11
+",LENOVO,Yoga Book 9,82YQ004STR,104.999,TL,Intel,13. Nesil,Core i7,1335U,Turbo Boost 3.7 GHz,10,16 GB,Birleşik Bellek,6400 MHz,13.3 inch,60 Hz,2880 x 1800,OLED,Intel,Intel® Iris Xe Graphics,1 TB,NVMe SSD,Windows 11 Home 64,1.35 Kg.
+161,"
+MacBook Air MRYV3TU/A M3 8Gb-512Gb Ssd-Liquid Retina-15.3inc-Midnight
+",APPLE,Macbook Air M3,MRYV3TU/A,62.499,TL,Apple,None,M3,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,15.3 inch,None,2880 x 1864,Full HD,APPLE,Paylaşılmıyor,512 GB,SSD,Mac OS,1.51 Kg.
+162,"
+MacBook Air MRXQ3TU/A M3 8Gb-256Gb Ssd-Liquid Retina-13.6inc-Silver
+",APPLE,Macbook Air M3,MRXQ3TU/A,45.499,TL,Apple,None,M3,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,13.6 inch,None,2560 x 1664,IPS,APPLE,Paylaşılmıyor,256 GB,SSD,Mac OS,1.24 Kg.
+163,"
+Hp Victus 16-r1046nt 14.Nesil Core i5 14500HX-RTX4060 8Gb-16Gb-512Gb-16.1inc-W11
+",HP,Victus,9J248EA,49.999,TL,Intel,14. Nesil,Core i5,14500HX,Turbo Boost 4.9 GHz,14,16 GB (2x8GB),DDR5,5600 MHz,16.1 inch,144 Hz,1920 x 1080,IPS,NVIDIA,RTX 4060,512 GB,NVMe SSD,Windows 11 Home 64,2.34 Kg.
+164,"
+Msi Prestige 16 Evo Core Ultra 7 155H-16Gb-1Tb Ssd-16inc-W11
+",MSI,Prestige 16,PRESTIGE 16 AI EVO B1MG-015TR,61.999,TL,Intel,None,Core Ultra 7,155H,Turbo Boost 4.8 GHz,16,16 GB,LPDDR5,None,16 inch,None,2560 x 1600,QHD,Intel,Arc™ Graphics,1 TB,NVMe SSD,Windows 11 Home 64,1.5 Kg.
+165,"
+MacBook Pro MRW73TU/A M3 Max 36Gb-1Tb Ssd-Liquid Retina-16inc-Gümüş
+",APPLE,Macbook Pro M3 Max,MRW73TU/A,142.499,TL,Apple,None,M3 Max,Paylaşılmıyor,Paylaşılmıyor,14,36 GB,Birleşik Bellek,None,16 inch,60 Hz,3456 x 2234,Retina,APPLE,None,1 TB,SSD,Mac OS,2.15 Kg.
+166,"
+Asus Rog Strix G17 7.Nesil Ryzen 9 7945HX-RTX4080 12Gb-32Gb-1Tb Ssd-17.3inc-W11
+",ASUS,Rog Strix G17,G733PZ-LL023W-Gaming,119.571,TL,AMD,7. Nesil,Ryzen™ 9,7945HX,Turbo Boost 5.4 GHz,16,32 GB (2x16GB),DDR5,4800 MHz,17.3 inch,240 Hz,2560 x 1440,WQHD,NVIDIA,RTX 4080,1 TB,NVMe SSD,Windows 11 Home 64,3 Kg.
+167,"
+Asus Rog Strix G17 7.Nesil Ryzen 9 7845HX-RTX4070 8Gb-16Gb-1Tb Ssd-17.3inc-W11
+",ASUS,Rog Strix G17,G713PI-LL047W-Gaming,87.831,TL,AMD,7. Nesil,Ryzen™ 9,7845HX,Turbo Boost 5.2 GHz,12,16 GB,DDR5,4800 MHz,17.3 inch,240 Hz,2560 x 1440,WQHD,NVIDIA,RTX 4070,1 TB,NVMe SSD,Windows 11 Home 64,2.8 Kg.
+168,"
+Lenovo Legion 7 Pro 13.Nesil Core i9 13900HX-RTX4080 12Gb-32Gb-1Tb Ssd-16inc-W11
+",LENOVO,82WQ0017TX,82WQ0017TX,128.999,TL,Intel,13. Nesil,Core i9,13900HX,Turbo Boost 5.4 GHz,24,32 GB (2x16GB),DDR5,5600 MHz,16 inch,240 Hz,2560 x 1600,Anti-Glare,NVIDIA,RTX 4080,1 TB,NVMe SSD,Windows 11 Home 64,2.8 Kg.
+169,"
+MacBook Pro MPHF3TU/A M2 Pro 16Gb-1Tb Ssd-Liquid Retina-14inc-Uzay Grisi
+",APPLE,MacBook Pro,MPHF3TU/A,77.799,TL,Apple,None,M2 Pro,Paylaşılmıyor,Paylaşılmıyor,12,16 GB,Birleşik Bellek,None,14.2 inch,60 Hz,3024 x 1964,Retina,APPLE,None,1 TB,SSD,macOS Ventura,1.6 Kg.
+170,"
+Asus Rog Strix G16 14.Nesil Core i9 14900HX-RTX4060 8Gb-16Gb-512Gb-16inc-W11
+",ASUS,Rog Strix G16,G614JVR-N3028W-Gaming,76.999,TL,Intel,14. Nesil,Core i9,14900HX,Turbo Boost 5.8 GHz,24,16 GB,DDR5,5600 MHz,16 inch,165 Hz,1920 x 1200,Full HD,NVIDIA,RTX 4060,512 GB,NVMe SSD,Windows 11 Home 64,2.5 Kg.
+171,"
+Msi Cyborg 15 13.Nesil Core i7 13620H-RTX4060 8GB-16GB-512Gb Ssd-15.6inc-W11
+",MSI,Cyborg 15,CYBORG 15 A13VF-898TR,48.999,TL,Intel,13. Nesil,Core i7,13620H,Turbo Boost 4.9 GHz,10,16 GB (2x8GB),DDR5,5200 MHz,15.6 inch,144 Hz,1920 x 1080,Full HD,NVIDIA,RTX 4060,512 GB,NVMe SSD,Windows 11 Home 64,1.98 Kg.
+172,"
+MacBook Air MRYQ3TU/A M3 8Gb-512Gb Ssd-Liquid Retina-15.3inc-Silver
+",APPLE,Macbook Air M3,MRYQ3TU/A,62.999,TL,Apple,None,M3,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,15.3 inch,None,2880 x 1864,Full HD,APPLE,Paylaşılmıyor,512 GB,SSD,Mac OS,1.51 Kg.
+173,"
+Msi Creator Z17 14.Nesil Core i9 14900HX-RTX4070 8Gb-32Gb-2Tb Ssd-17inc-W11 Pro
+",MSI,Creator Z17,CREATOR Z17 HX STUDIO A14VGT-254TR,135.799,TL,Intel,14. Nesil,Core i9,14900HX,Turbo Boost 5.8 GHz,24,32 GB (2x16GB),DDR5,5600 MHz,17 inch,165 Hz,2560 x 1600,QHD,NVIDIA,RTX 4070,2 TB,NVMe SSD,Windows 11 Pro,2.5 Kg.
+174,"
+MacBook Pro MRW33TU/A M3 Max 36Gb-1Tb Ssd-Liquid Retina-16inc-Uzay Siyahı
+",APPLE,MacBook Pro,MRW33TU/A,142.499,TL,Apple,None,M3 Max,Paylaşılmıyor,Paylaşılmıyor,14,36 GB,Birleşik Bellek,None,16 inch,60 Hz,3456 x 2234,Retina,APPLE,None,1 TB,SSD,Mac OS,2.15 Kg.
+175,"
+Casper Excalibur 12.Nesil Core i5 12450H-RTX2050 4Gb-8Gb-500Gb Ssd-15.6inc-W11
+",CASPER,Excalibur,G870.1245-8EG0T-B,28.999,TL,Intel,12. Nesil,Core i5,12450H,Turbo Boost 4.4 GHz,8,8 GB,DDR4,3200 MHz,15.6 inch,144 Hz,1920 x 1080,IPS,NVIDIA,RTX 2050,500 GB,NVMe SSD,Windows 11 Home 64,2.5 Kg.
+176,"
+Lenovo Ip Gaming 3 12.Nesil Core i5 12450H-RTX3050ti 4Gb-16Gb-512 Ssd-15.6-W11
+",LENOVO,Ip Gaming 3,82S9015TTX,39.999,TL,Intel,12. Nesil,Core i5,12450H,Turbo Boost 4.4 GHz,8,16 GB,DDR4,3200 MHz,15.6 inch,120 Hz,1920 x 1080,IPS,NVIDIA,RTX 3050Ti,512 GB,NVMe SSD,Windows 11 Home 64,2.31 Kg.
+177,"
+Asus Rog Strix Scar 18 13.Nesil Core i9 13980HX-RTX4090 16Gb-32Gb-2Tb-18inc-W11
+",ASUS,Rog Strix Scar 18 Notebook,G834JY-N6040W-Gaming,158.399,TL,Intel,13. Nesil,Core i9,13980HX,Turbo Boost 5.6 GHz,24,32 GB (2x16GB),DDR5,4800 MHz,18 inch,240 Hz,2560 x 1600,QHD,NVIDIA,RTX 4090,2 TB,NVMe SSD,Windows 11 Home 64,3.1 Kg.
+178,"
+Dell Inspiron 14 5430 13.Nesil Core i7 1355U-16Gb-512Gb Ssd-14inc-W11
+",DELL,Inspiron 14,5430-SI713W165N,20.999,TL,Intel,13. Nesil,Core i7,1355U,Turbo Boost 5.0 GHz,None,16 GB,DDR4,4800 MHz,14 inch,None,1920 x 1200,HD,Intel,Intel® Iris Xe Graphics,512 GB,NVMe SSD,Windows 11 Home 64,1.6 Kg.
+179,"
+Dell Xps 15 9530 13.Nesil Core i7 13700H-RTX4050 6Gb-16Gb-1Tb-15.6inc-W11Pro
+",DELL,Xps 15,XPS15-9530-SI7W161N,64.999,TL,Intel,13. Nesil,Core i7,13700H,Turbo Boost 5.0 GHz,14,16 GB,DDR5,None,15.6 inch,60 Hz,1920 x 1200,Full HD,NVIDIA,Rtx 4050,1 TB,SSD,Windows 11 Pro,1.84 Kg.
+180,"
+MacBook Air MQKX3TU/A M2 8Gb-512Gb Ssd-Liquid Retina-15.3inc-Gece Yarısı
+",APPLE,MQKX3TU/A,MQKX3TU/A,53.499,TL,Apple,None,M2,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,15.3 inch,None,2880 x 1864,Full HD,APPLE,Paylaşılmıyor,512 GB,SSD,macOS Ventura,1.51 Kg.
+181,"
+MacBook Pro MPHG3TU/A M2 Max 32Gb-1Tb Ssd-Liquid Retina-14inc-Uzay Grisi
+",APPLE,MacBook Pro,MPHG3TU/A,112.372,TL,Apple,None,M2 Max,Paylaşılmıyor,Paylaşılmıyor,12,32 GB,Birleşik Bellek,None,14.2 inch,60 Hz,3024 x 1964,Retina,APPLE,None,1 TB,SSD,macOS Ventura,1.65 Kg.
+182,"
+Acer Predator 12.Nesil Core i7 12700H-RTX3070 8Gb-16Gb-1Tb Ssd-15.6inc-Freedos
+",ACER,PH315-55-76PF,PH315-55-76PF,58.999,TL,Intel,12. Nesil,Core i7,12700H,Turbo Boost 4.7 GHz,14,16 GB,DDR5,None,15.6 inch,165 Hz,1920 x 1080,LED,NVIDIA,RTX 3070,1 TB,SSD,FreeDOS,2.6 Kg.
+183,"
+Hp Victus 16-d1034nt 12.Nesil Core i7 12700H-RTX3060 6Gb-16Gb-512Ssd-16.1inc-W11
+",HP,68P19EA,68P19EA,48.672,TL,Intel,12. Nesil,Core i7,12700H,Turbo Boost 4.7 GHz,14,16 GB (2x8GB),DDR5,4800 MHz,16.1 inch,None,1920 x 1080,IPS,NVIDIA,RTX 3060,512 GB,NVMe SSD,Windows 11 Home 64,2.46 Kg.'dan başlayan ağırlık
+184,"
+MacBook Air MLY03TU/A M2 8Gb-512Gb Ssd-Liquid Retina-13.6inc-Gümüş
+",APPLE,MLY03TU/A,MLY03TU/A,46.999,TL,Apple,None,M2,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,13.6 inch,None,2560 x 1664,IPS,APPLE,Paylaşılmıyor,512 GB,SSD,macOS Monterey,1.24 Kg.
+185,"
+Acer Swift Go Oled Evo Core Ultra 7 155U-16Gb-512Gb Ssd-14inc-W11
+",ACER,Swift Go,SFG14-72-77SK,39.999,TL,Intel,1. Nesil,Core Ultra 7,155U,Turbo Boost 4.8 GHz,12,16 GB,Birleşik Bellek,None,14 inch,90 Hz,2880 x 1800,OLED,Intel,Arc™ Graphics,512 GB,NVMe SSD,Windows 11 Home 64,1.32 Kg.
+186,"
+Asus Rog Zephyrus G14 8.Nesil Ryzen 9 8945HS-RTX4060 8GB-16Gb-1Tb Ssd-14inc-W11
+",ASUS,GA403UV-QS026W,GA403UV-QS026W-Gaming,83.999,TL,AMD,8. Nesil,Ryzen™ 9,8945HS,Turbo Boost 5.2 GHz,8,16 GB (2x8GB),LPDDR5X,None,14 inch,120 Hz,2880 x 1800,3K,NVIDIA,RTX 4060,1 TB,NVMe SSD,Windows 10 Home 64,1.5 Kg.
+187,"
+Msi Summit E16 Evo Core Ultra 7 155H-RTX4060 8GB-32Gb-1Tb Ssd-16inc-W11P
+",MSI,Summit E16 Evo,SUMMIT E16 AI STUDIO A1VFTG-030TR,93.199,TL,Intel,None,Core i7,155H,Turbo Boost 4.8 GHz,16,32 GB,LPDDR5,None,16 inch,165 Hz,2560 x 1600,QHD,NVIDIA,RTX 4060,1 TB,NVMe SSD,Windows 11 Pro,2.1 Kg.
+188,"
+MacBook Pro MUW73TU/A M3 Max 48Gb-1Tb Ssd-Liquid Retina-16inc-Gümüş
+",APPLE,Macbook Pro M3 Max,MUW73TU/A,162.299,TL,Apple,None,M3 Max,Paylaşılmıyor,Paylaşılmıyor,14,48 GB,Birleşik Bellek,None,16.2 inch,60 Hz,3456 x 2234,Retina,APPLE,None,1 TB,SSD,Mac OS,2.15 Kg.
+189,"
+Acer Aspire 3 12.Nesil Core i5 1235U-8Gb-512Gb Ssd-15.6inc-Mx550 2Gb-Freedos
+",ACER,Aspire 3,A315-59G-58K7,22.760,TL,Intel,12. Nesil,Core i5,1235U,Turbo Boost 4.4 GHz,10,8 GB,DDR4,None,15.6 inch,60 Hz,1920 x 1080,LCD,NVIDIA,MX550,512 GB,NVMe SSD,FreeDOS,1.79 Kg.
+190,"
+Asus Rog Ally Ryzen Z1-16Gb Ram-512Gb Ssd-7inc-W11
+",ASUS,Rog Ally Ryzen Z1,RC71L-NH019W-Gaming,32.999,TL,AMD,None,Ryzen™ Z1,None,Turbo Boost 4.9 GHz,6,16 GB,LPDDR5,None,7 inch,120 Hz,1920 x 1080,Yok,AMD,AMD Radeon Graphics,512 GB,NVMe SSD,Windows 11 Home 64,0.608Kg
+191,"
+Asus Rog Strix G17 7.Nesil Ryzen 9 7845HX-RTX4060 8Gb-16Gb-1Tb Ssd-17.3inc-W11
+",ASUS,Rog Strix G17,G713PV-LL063W-Gaming,72.434,TL,AMD,7. Nesil,Ryzen™ 9,7845HX,Turbo Boost 5.2 GHz,12,16 GB,DDR5,4800 MHz,17.3 inch,240 Hz,2560 x 1440,WQHD,NVIDIA,RTX 4060,1 TB,NVMe SSD,Windows 11 Home 64,2.8 Kg.
+192,"
+Asus Vivobook 16X 12.Nesil Core i5 12450H-RTX2050 4Gb-8Gb-512Ssd-16-W11
+",ASUS,Vivobook 16X,K3605ZF-N1017W,30.999,TL,Intel,12. Nesil,Core i5,12450H,Turbo Boost 4.4 GHz,8,8 GB,DDR4,None,16 inch,60 Hz,1920 x 1200,IPS,NVIDIA,RTX 2050,512 GB,NVMe SSD,Windows 11 Home 64,1.8 Kg.
+193,"
+Acer Predator 13.Nesil Core i7 13700HX-RTX4060 8Gb-16Gb-512Gb Ssd-16inc-W11
+",ACER,Acer Predator 13.Nesil Core i7 Notebook,PH16-71-768K,65.881,TL,Intel,13. Nesil,Core i7,13700HX,Turbo Boost 5.0 GHz,16,16 GB,DDR5,None,16 inch,165 Hz,2560 x 1600,LED,NVIDIA,RTX 4060,512 GB,NVMe SSD,Windows 11 Home 64,2.9 Kg.
+194,"
+MacBook Air MQKT3TU/A M2 8Gb-512Gb Ssd-Liquid Retina-15.3inc-Gümüş
+",APPLE,MQKT3TU/A,MQKT3TU/A,59.499,TL,Apple,None,M2,Paylaşılmıyor,Paylaşılmıyor,8,8 GB,Birleşik Bellek,None,15.3 inch,None,2880 x 1864,HD,APPLE,Paylaşılmıyor,512 GB,SSD,macOS Ventura,1.51 Kg.
+195,"
+Huawei Matebook X Pro 13.Nesil Core i7 1360P-16Gb-1Tb Ssd-14.2inc-W11
+",HUAWEI,53013SJQ,53013SJQ,62.999,TL,Intel,Intel 13.Nesil,Core i7,1360P,Turbo Boost 5.0 GHz,12,16 GB,None,None,14.2 inch,None,3120 x 2080,Dokunmatik,Intel,Intel® Iris® Xe Graphics eligible,1 TB,NVMe SSD,Windows 11 Home 64,Yaklaşık 1.26 Kg.
+196,"
+Casper Excalibur 12.Nesil Core i7 12650H-RTX4060 8Gb-32Gb-1Tb Ssd-15.6inc-W11
+",CASPER,Excalibur,G870.1265-DQB0A-B,48.299,TL,Intel,12. Nesil,Core i7,12650H,Turbo Boost 4.7 GHz,10,32 GB,DDR4,3200 MHz,15.6 inch,144 Hz,1920 x 1080,IPS,NVIDIA,RTX 4060,1 TB,NVMe SSD,Windows 11 Home 64,2.5 Kg.
+197,"
+Hp Omen 16-n0001nt 6.Nesil Ryzen 9 6900HX-RTX3070TI 8GB-16Gb-1Tb-16.1inc-W11
+",HP,793K6EA,793K6EA,69.652,TL,AMD,6. Nesil,Ryzen™ 9,6900HX,Turbo Boost 4.9 GHz,8,16 GB,DDR5,4800 MHz,16.1 inch,144 Hz,1920 x 1080,Full HD,NVIDIA,RTX 3070Ti,1 TB,NVMe SSD,Windows 11 Home 64,2.46 Kg.
+198,"
+Asus Rog Zephyrus M16 13.Nesil Core i9 13900H-RTX4090 16Gb-32Gb-2Tb-16inc-W11
+",ASUS,Rog Zephyrus M16,GU604VY-NM040W-Gaming,171.151,TL,Intel,13. Nesil,Core i9,13900H,Turbo Boost 5.4 GHz,14,32 GB (2x16GB),DDR5,4800 MHz,16 inch,240 Hz,2560 x 1600,QHD,NVIDIA,RTX 4090,2 TB,NVMe SSD,Windows 11 Home 64,2.3 Kg.
+199,"
+Acer Aspire 3 12.Nesil Core i5 1235U-8Gb-512Gb Ssd-15.6inc-Mx550 2Gb-Freedos
+",ACER,Aspire 3,A315-59G-57NU,26.591,TL,Intel,12. Nesil,Core i5,1235U,Turbo Boost 4.4 GHz,10,8 GB,DDR4,None,15.6 inch,60 Hz,1920 x 1080,LED,NVIDIA,MX550,512 GB,NVMe SSD,FreeDOS,1.79 Kg.
+200,"
+Lenovo Legion 5 Pro 12.Nesil Core i7 12700H-RTX3070 8Gb-16Gb-512Gb Ssd-16inc-W11
+",LENOVO,Legion 5 Pro,82RF00N2TX,70.999,TL,Intel,12. Nesil,Core i7,12700H,Turbo Boost 4.7 GHz,14,16 GB (2x8GB),DDR5,4800 MHz,16 inch,165 Hz,2560 x 1600,IPS,NVIDIA,RTX 3070,512 GB,NVMe SSD,Windows 11 Home 64,2.5 Kg.
+201,"
+Dell Xps 13 9320 Evo 12.Nesil Core i7 1260P-16Gb-512Gb Ssd-13.4inc-W11Pro
+",DELL,Xps 13 9320 Evo,XPS13-9320-USI7W165N,55.000,TL,Intel,12. Nesil,Core i7,1260P,Turbo Boost 4.7 GHz,12,16 GB,None,5200 MHz,13.4 inch,60 Hz,3840 x 2400,Ultra HD,Intel,Intel® Iris Xe Graphics,512 GB,SSD,Windows 11 Pro,1.27 Kg.
+202,"
+Huawei Matebook D15 11.Nesil Core i5 1135G7-8Gb-512Gb Ssd-15.6inc-W11
+",HUAWEI,MBD15/11/8R4/512,MBD15/11/8R4/512,16.982,TL,Intel,Intel 11.Nesil,Core i5,1135G7,2.4GHz Turbo Boost 4.2GHz,4,8 GB,DDR4,None,15.6 inch,None,1920 x 1080,HD,Intel,Intel® Iris Xe Graphics,512 GB,NVMe SSD,Windows 11 Home 64,1.56 Kg.
+203,"
+Lenovo Legion 9 13.Nesil Core i9 13980HX-RTX4090 16Gb-64Gb-2Tb Ssd-16inc-W11
+",LENOVO,Legion 9,83AG000NTR,225.999,TL,Intel,13. Nesil,Core i9,13980HX,Turbo Boost 5.6 GHz,24,64 GB (2x32GB),DDR5,5600 MHz,16 inch,165 Hz,3200 x 2000,MiniLED,NVIDIA,RTX 4090,1 TB,NVMe SSD,Windows 11 Home 64,2.6 Kg.
+204,"
+Hp Victus 16-r1052n 14.Nesil Core i5 14500HX-RTX4050 6Gb-16Gb-1Tb-16.1inc-W11
+",HP,Victus,9J254EA,53.135,TL,Intel,14. Nesil,Core i5,14500HX,Turbo Boost 4.9 GHz,14,16 GB (2x8GB),DDR5,5600 MHz,16.1 inch,144 Hz,1920 x 1080,IPS,NVIDIA,Rtx 4050,1 TB,NVMe SSD,Windows 11 Home 64,2.34 Kg.
+205,"
+Gigabyte Aero 16 13.Nesil Core i7 13700H-RTX4070 8Gb-16Gb-1Tb Ssd-16inc-W11
+",GIGABYTE,Aero 16,BSF-73EE994SO,107.160,TL,Intel,13. Nesil,Core i7,13700H,Turbo Boost 5.0 GHz,14,16 GB,DDR5,4800 MHz,16 inch,60 Hz,3840 x 2400,4K,NVIDIA,RTX 4070,1 TB,NVMe SSD,Windows 11 Home 64,1.9 Kg.
+206,"
+Lenovo Yoga 7 Evo 13.Nesil Core i7 1360P-16Gb-512Gb Ssd-14inc-W11
+",LENOVO,Yoga 7 Evo,82YL007JTX,41.999,TL,Intel,13. Nesil,Core i7,1360P,Turbo Boost 5.0 GHz,12,16 GB,LPDDR5,5200 MHz,14 inch,60 Hz,1920 x 1200,Dokunmatik,Intel,Intel® Iris Xe Graphics,512 GB,NVMe SSD,Windows 11 Home 64,1.49 Kg.
+207,"
+Acer Nitro 5 12.Nesil Core i5 12450H-RTX3050 4Gb-8Gb-512Gb Ssd-15.6inc-W11
+",ACER,Nitro 5,AN515-58-571C,30.999,TL,Intel,Intel 12.Nesil,Core i5,12450H,Turbo Boost 4.4 GHz,12,8 GB,DDR4,None,15.6 inch,None,1920 x 1080,LED,NVIDIA,RTX 3050,512 GB,SSD,Windows 11 Home 64,2.5 Kg.
+208,"
+Asus Vivobook 16 12.Nesil Core i5 1235U-8Gb-512Gb Ssd-16inc-W11
+",ASUS,Vivobook 16,X1605ZA-MB053W,24.199,TL,Intel,12. Nesil,Core i5,1235U,Turbo Boost 4.4 GHz,10,8 GB,DDR4,None,16 inch,60 Hz,1920 x 1200,IPS,Intel,Intel UHD Graphics,512 GB,NVMe SSD,Windows 11 Home 64,1.88 kg.
+209,"
+Asus Vivobook 15 12.Nesil Core i5 1235U-8Gb-256Gb Ssd-15.6inc-W11
+",ASUS,Vivobook 15,X1502ZA-EJ030W,21.311,TL,Intel,12. Nesil,Core i5,1235U,Turbo Boost 4.4 GHz,10,8 GB,DDR4,None,15.6 inch,None,1920 x 1080,LED,Intel,Intel UHD Graphics,256 GB,NVMe SSD,Windows 11 Home 64,1.7 Kg.
+210,"
+Acer Aspire 7 12.Nesil Core i5 1240P-RTX3050 4Gb-16Gb-512Gb Ssd-15.6inc-Freedos
+",ACER,A715-51G-51MV,A715-51G-51MV,32.940,TL,Intel,12. Nesil,Core i5,1240P,Turbo Boost 4.4 GHz,12,16 GB,DDR4,None,15.6 inch,144 Hz,1920 x 1080,Full HD,NVIDIA,RTX 3050,512 GB,SSD,FreeDOS,2.1 Kg.
+211,"
+Hp 15-dw3052nt 11.Nesil Core i3 1125G4-4Gb-256Gb Ssd-15.6inc-W11 Notebook
+",HP,793N9EA,793N9EA,16.210,TL,Intel,11. Nesil,Core i3,1125G4,Turbo Boost 3.7 GHz,4,4 GB,DDR4,3200 MHz,15.6 inch,None,1366 x 768,Mikro Kenarlı,Intel,Intel UHD Graphics,256 GB,NVMe SSD,Windows 11 Home 64,1.75 Kg.'dan başlar
+212,"
+Lenovo Ip Gaming 3 12.Nesil Core i5 12500H-RTX3050ti 4Gb-16Gb-512 Ssd-16inç-W11
+",LENOVO,Ip Gaming 3,82SA0064TX,40.999,TL,Intel,12. Nesil,Core i5,12500H,Turbo Boost 4.5 GHz,12,16 GB,DDR4,3200 MHz,16 inch,165 Hz,1920 x 1200,IPS,NVIDIA,RTX 3050Ti,512 GB,NVMe SSD,Windows 11 Home 64,2.6 Kg.
+213,"
+MacBook Pro MPHJ3TU/A M2 Pro 16Gb-1Tb Ssd-Liquid Retina-14inc-Gümüş
+",APPLE,MacBook Pro,MPHJ3TU/A,77.799,TL,Apple,None,M2 Pro,Paylaşılmıyor,Paylaşılmıyor,12,16 GB,Birleşik Bellek,None,14.2 inch,60 Hz,3024 x 1964,Retina,APPLE,None,1 TB,SSD,macOS Ventura,1.6 Kg.
+214,"
+MacBook Pro MNWD3TU/A M2 Pro 16Gb-1Tb Ssd-Liquid Retina-16inc-Gümüş
+",APPLE,MacBook Pro,MNWD3TU/A,96.611,TL,Apple,None,M2 Pro,Paylaşılmıyor,None,12,16 GB,Birleşik Bellek,None,16.2 inch,60 Hz,3456 x 2234,Retina,APPLE,Paylaşılmıyor,1 TB,SSD,macOS Ventura,2.15 Kg.
+215,"
+Acer Aspire 3 11.Nesil Core i5 1135G7-8Gb-512Gb Ssd-15.6inc-Mx350 2Gb-Freedos
+",ACER,Aspire 3,A315-58G-5839,22.760,TL,Intel,11. Nesil,Core i5,1135G7,2.4GHz Turbo Boost 4.2GHz,4,8 GB,DDR4,None,15.6 inch,None,1920 x 1080,LED,NVIDIA,MX350,512 GB,SSD,FreeDOS,1.12 Kg.
+216,"
+Lenovo Legion 7 11.Nesil Core i9 11980HK-RTX3080 16Gb-32Gb-2Tb Ssd-16inc-W11
+",LENOVO,Legion 7,82K600BPTX,110.999,TL,Intel,11. Nesil,Core i9,11980HK,3.3 GHz Turbo Boost 5.0 GHz,8,32 GB (2x16GB),DDR4,3200 MHz,16 inch,165 Hz,2560 x 1600,Anti-Glare,NVIDIA,RTX 3080,2 TB,NVMe SSD,Windows 11 Home 64,2.5 Kg.
+217,"
+Omen By Hp 16-c0026nt 5.Nesil Ryzen 9 5900HX-32GB-1Tb-16.1inc-RX6600M 8GB-W11
+",HP,556G6EA,556G6EA,63.093,TL,AMD,AMD Ryzen 5.Nesil,Ryzen™ 9,5900HX,3.3 GHz Turbo Boost 4.6 GHz,8,32 GB (2x16GB),DDR4,3200 MHz,16.1 inch,None,1920 x 1080,IPS,AMD,RX6600M,1 TB,M2 sata SSD,Windows 11 Home 64,2.31 Kg.
+218,"
+MacBook Air Z124M116512-TQ6 M1 16Gb-512Gb Ssd-Retina-13.3inc-Space Grey
+",APPLE,Z124M116512-TQ6,Z124M116512-TQ6,49.399,TL,Apple,None,M1,Paylaşılmıyor,Paylaşılmıyor,8,16 GB,Birleşik Bellek,None,13.3 inch,None,2560 x 1600,Full HD,APPLE,Paylaşılmıyor,512 GB,SSD,Mac OS,Belirtilmemiş.
+219,"
+Msi Pulse 17 AI Core Ultra 9 185H-RTX4070 8Gb-32Gb-1Tb Ssd-17inc-W11
+",MSI,Pulse 17,PULSE 17 AI C1VGKG-038TR,100.698,TL,Intel,None,Core Ultra 9,185H,Turbo Boost 5.1 GHz,16,32 GB,DDR5,None,17 inch,240 Hz,2560 x 1600,LCD,NVIDIA,RTX 4070,1 TB,NVMe SSD,Windows 11 Home 64,2.8 Kg.
+220,"
+Msi Cyborg 15 12.Nesil Core i5 12450H-RTX4060 8GB-16GB-512Gb Ssd-15.6inc-W11
+",MSI,Cyborg 15,CYBORG 15 A12VF-676TR,41.599,TL,Intel,12. Nesil,Core i5,12450H,Turbo Boost 4.4 GHz,8,16 GB (2x8GB),DDR5,5200 MHz,15.6 inch,144 Hz,1920 x 1080,Full HD,NVIDIA,RTX 4060,512 GB,NVMe SSD,Windows 11 Home 64,1.98 Kg.
+221,"
+Lenovo Legion 9 13.Nesil Core i9 13980HX-RTX4080 12Gb-32Gb-1Tb Ssd-16inc-W11
+",LENOVO,Legion 9,83AG000LTR,190.999,TL,Intel,13. Nesil,Core i9,13980HX,Turbo Boost 5.6 GHz,24,32 GB (2x16GB),DDR5,6400 MHz,16 inch,165 Hz,3200 x 2000,MiniLED,NVIDIA,RTX 4080,1 TB,NVMe SSD,Windows 11 Home 64,2.6 Kg.
